@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <motif name='MYF6_HUMAN' id='MYF6_do' sample-size='7' sequence-count='7' coverage='1.0' length='7'>
+  <comment>HOCOMOCO v9; MAR2012; ChIPMunk v3.1</comment>
+  <background>
+   <a>0.25</a>
+   <c>0.25</c>
+   <g>0.25</g>
+   <t>0.25</t>
+  </background>
+  <consensus>GCAGCTG</consensus>
+  <WPCM words-count='7.0' length='7' dic='-0.9504353466581681' kdic='8.753625181181068'>
+   <pm-column position='1' dic='-0.440884766834524' kdic='0.9454095942853664'>
+    <a>1.24193548387097</a>
+    <c>0.22580645161290297</c>
+    <g>5.306451612903224</g>
+    <t>0.22580645161290297</t>
+   </pm-column>
+   <pm-column position='2' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>7.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3' dic='0.0' kdic='1.3862943611198906'>
+    <a>7.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>7.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='5' dic='-0.509550579823644' kdic='0.8767437812962464'>
+    <a>0.0</a>
+    <c>3.951612903225806</c>
+    <g>3.048387096774194</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='6' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>7.0</t>
+   </pm-column>
+   <pm-column position='7' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>7.0</g>
+    <t>0.0</t>
+   </pm-column>
+  </WPCM>
+  <PPM words-count='7.0' length='7' kdic='8.753625181181068' dic='-0.9504353466581681'>
+   <pm-column position='1' dic='-0.440884766834524' kdic='0.9454095942853664'>
+    <a>0.17741935483871</a>
+    <c>0.032258064516129</c>
+    <g>0.758064516129032</g>
+    <t>0.032258064516129</t>
+   </pm-column>
+   <pm-column position='2' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>1.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3' dic='0.0' kdic='1.3862943611198906'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>1.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='5' dic='-0.509550579823644' kdic='0.8767437812962464'>
+    <a>0.0</a>
+    <c>0.564516129032258</c>
+    <g>0.435483870967742</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='6' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>1.0</t>
+   </pm-column>
+   <pm-column position='7' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>1.0</g>
+    <t>0.0</t>
+   </pm-column>
+  </PPM>
+  <PWM length='7' words-count='7.0'>
+   <pm-column position='1'>
+    <a>-0.2576984414575254</a>
+    <c>-1.1441806864518778</c>
+    <g>0.9517359616507862</g>
+    <t>-1.1441806864518778</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>-1.5254666506814403</a>
+    <c>1.2081962980190417</c>
+    <g>-1.5254666506814403</g>
+    <t>-1.5254666506814403</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>1.2081962980190417</a>
+    <c>-1.5254666506814403</c>
+    <g>-1.5254666506814403</g>
+    <t>-1.5254666506814403</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>-1.5254666506814403</a>
+    <c>-1.5254666506814403</c>
+    <g>1.2081962980190417</g>
+    <t>-1.5254666506814403</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>-1.5254666506814403</a>
+    <c>0.6853221028221577</c>
+    <g>0.45777290541696136</g>
+    <t>-1.5254666506814403</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>-1.5254666506814403</a>
+    <c>-1.5254666506814403</c>
+    <g>-1.5254666506814403</g>
+    <t>1.2081962980190417</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>-1.5254666506814403</a>
+    <c>-1.5254666506814403</c>
+    <g>1.2081962980190417</g>
+    <t>-1.5254666506814403</t>
+   </pm-column>
+  </PWM>
+ </motif>
+</smallbismark>

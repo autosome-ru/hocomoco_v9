@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='CSEN' id='CSEN.MTF'>
+  <comment name='discrete information content by position'>[-0.668416150448845, -0.459098647172305, -0.302975051701147, 0.0, 0.0, 0.0, -0.459098647172305, -0.459098647172305, -0.465602578809652, -0.254952495671889]</comment>
+  <comment name='discrete information content'>-3.06924221814845</comment>
+  <PPM words-count='5.0' length='10'>
+   <pm-column position='1'>
+    <a>0.416666666666667</a>
+    <c>0.395833333333333</c>
+    <g>0.0</g>
+    <t>0.1875</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.395833333333333</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.604166666666667</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.0</a>
+    <c>0.1875</c>
+    <g>0.8125</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>1.0</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.0</a>
+    <c>1.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.395833333333333</a>
+    <c>0.0</c>
+    <g>0.604166666666667</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.604166666666667</g>
+    <t>0.395833333333333</t>
+   </pm-column>
+   <pm-column position='9'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.416666666666667</g>
+    <t>0.583333333333333</t>
+   </pm-column>
+   <pm-column position='10'>
+    <a>0.0520833333333333</a>
+    <c>0.0520833333333333</c>
+    <g>0.84375</g>
+    <t>0.0520833333333333</t>
+   </pm-column>
+  </PPM>
+  <PWM words-count='5.0' length='10'>
+   <pm-column position='1'>
+    <a>0.408347164865173</a>
+    <c>0.365537266291528</c>
+    <g>-1.41261361898035</g>
+    <t>-0.209639511806873</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.365537266291528</a>
+    <c>-1.41261361898035</c>
+    <g>-1.41261361898035</g>
+    <t>0.728369432977982</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>-1.41261361898035</a>
+    <c>-0.209639511806873</c>
+    <g>0.994033488777455</g>
+    <t>-1.41261361898035</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>-1.41261361898035</a>
+    <c>-1.41261361898035</c>
+    <g>-1.41261361898035</g>
+    <t>1.18463154534248</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>-1.41261361898035</a>
+    <c>1.18463154534248</c>
+    <g>-1.41261361898035</g>
+    <t>-1.41261361898035</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>1.18463154534248</a>
+    <c>-1.41261361898035</c>
+    <g>-1.41261361898035</g>
+    <t>-1.41261361898035</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.365537266291528</a>
+    <c>-1.41261361898035</c>
+    <g>0.728369432977982</g>
+    <t>-1.41261361898035</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>-1.41261361898035</a>
+    <c>-1.41261361898035</c>
+    <g>0.728369432977982</g>
+    <t>0.365537266291528</t>
+   </pm-column>
+   <pm-column position='9'>
+    <a>-1.41261361898035</a>
+    <c>-1.41261361898035</c>
+    <g>0.408347164865173</g>
+    <t>0.697467156824215</t>
+   </pm-column>
+   <pm-column position='10'>
+    <a>-0.913522238853433</a>
+    <c>-0.913522238853433</c>
+    <g>1.0284305698522</g>
+    <t>-0.913522238853433</t>
+   </pm-column>
+  </PWM>
+ </motif>
+</smallbismark>

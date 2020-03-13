@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <motif name='RARA_HUMAN' id='RARA_si' sample-size='130' sequence-count='65' coverage='0.5' length='7'>
+  <comment>HOCOMOCO v9; MAR2012; ChIPMunk v3.1</comment>
+  <background>
+   <a>0.29182</a>
+   <c>0.20818</c>
+   <g>0.20818</g>
+   <t>0.29182</t>
+  </background>
+  <consensus>vAGGTCA</consensus>
+  <WPCM words-count='57.9875768389946' length='7' dic='-1.1545370724070474' kdic='8.549523455432189'>
+   <pm-column position='1' dic='-1.1545370724070474' kdic='0.2317572887128441'>
+    <a>11.093501273070052</a>
+    <c>19.556715087384596</c>
+    <g>22.621106778155564</g>
+    <t>4.716253700384437</t>
+   </pm-column>
+   <pm-column position='2' dic='0.0' kdic='1.3862943611198906'>
+    <a>57.9875768389946</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>57.9875768389946</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>57.9875768389946</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='5' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>57.9875768389946</t>
+   </pm-column>
+   <pm-column position='6' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>57.9875768389946</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='7' dic='0.0' kdic='1.3862943611198906'>
+    <a>57.9875768389946</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+  </WPCM>
+  <PPM words-count='57.9875768389946' length='7' kdic='8.549523455432189' dic='-1.1545370724070474'>
+   <pm-column position='1' dic='-1.1545370724070474' kdic='0.2317572887128441'>
+    <a>0.191308240105837</a>
+    <c>0.337256980778569</c>
+    <g>0.390102639414718</g>
+    <t>0.0813321397008768</t>
+   </pm-column>
+   <pm-column position='2' dic='0.0' kdic='1.3862943611198906'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>1.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>1.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='5' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>1.0</t>
+   </pm-column>
+   <pm-column position='6' dic='0.0' kdic='1.3862943611198906'>
+    <a>0.0</a>
+    <c>1.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='7' dic='0.0' kdic='1.3862943611198906'>
+    <a>1.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+  </PPM>
+  <PWM length='7' words-count='57.9875768389946'>
+   <pm-column position='1'>
+    <a>-0.3884346472999239</a>
+    <c>0.4570574790407343</c>
+    <g>0.596993850329115</g>
+    <t>-1.121134018812218</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>1.1841841921798402</a>
+    <c>-2.726665821031034</c>
+    <g>-2.726665821031034</g>
+    <t>-2.726665821031034</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>-2.726665821031034</a>
+    <c>-2.726665821031034</c>
+    <g>1.516125365231948</g>
+    <t>-2.726665821031034</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>-2.726665821031034</a>
+    <c>-2.726665821031034</c>
+    <g>1.516125365231948</g>
+    <t>-2.726665821031034</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>-2.726665821031034</a>
+    <c>-2.726665821031034</c>
+    <g>-2.726665821031034</g>
+    <t>1.1841841921798402</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>-2.726665821031034</a>
+    <c>1.516125365231948</c>
+    <g>-2.726665821031034</g>
+    <t>-2.726665821031034</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>1.1841841921798402</a>
+    <c>-2.726665821031034</c>
+    <g>-2.726665821031034</g>
+    <t>-2.726665821031034</t>
+   </pm-column>
+  </PWM>
+ </motif>
+</smallbismark>

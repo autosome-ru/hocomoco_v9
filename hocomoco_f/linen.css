@@ -1,0 +1,31 @@
+* {margin: 0; padding: 0}
+
+body {
+  font-family: Sans-Serif; 
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  background: lightyellow;
+}
+
+a {
+  color: brown;
+}
+
+a.simple {
+  border: 0;
+}
+
+a:hover {
+  background-color: gold;
+}
+
+td {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='RARG' id='RARG.MTF'>
+  <comment name='discrete information content by position'>[-0.940325220510429, -0.472706370748397, -0.0270816023742992, -0.550313386561296, -0.0270816023742992, -0.0270816023742992, -0.237489524380481]</comment>
+  <comment name='discrete information content'>-2.2820793093235</comment>
+  <PPM words-count='28.7676767676768' length='7'>
+   <pm-column position='1'>
+    <a>0.298689138576779</a>
+    <c>0.145131086142322</c>
+    <g>0.530898876404495</g>
+    <t>0.0252808988764045</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.794007490636704</a>
+    <c>0.0</c>
+    <g>0.205992509363296</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>1.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.722846441947566</g>
+    <t>0.277153558052435</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>1.0</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.0</a>
+    <c>1.0</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.928838951310861</a>
+    <c>0.0711610486891386</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+  </PPM>
+  <PWM words-count='28.7676767676768' length='7'>
+   <pm-column position='1'>
+    <a>0.16075094236336</a>
+    <c>-0.470987294113638</c>
+    <g>0.696197641385374</g>
+    <t>-1.63418249574266</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>1.08129662000712</a>
+    <c>-2.25797613813595</c>
+    <g>-0.171528733856787</g>
+    <t>-2.25797613813595</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>-2.25797613813595</a>
+    <c>-2.25797613813595</c>
+    <g>1.30462713267935</g>
+    <t>-2.25797613813595</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>-2.25797613813595</a>
+    <c>-2.25797613813595</c>
+    <g>0.990885604726827</g>
+    <t>0.09281372338942</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>-2.25797613813595</a>
+    <c>-2.25797613813595</c>
+    <g>-2.25797613813595</g>
+    <t>1.30462713267935</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>-2.25797613813595</a>
+    <c>1.30462713267935</c>
+    <g>-2.25797613813595</g>
+    <t>-2.25797613813595</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>1.2329779789873</a>
+    <c>-1.02319925209479</c>
+    <g>-2.25797613813595</g>
+    <t>-2.25797613813595</t>
+   </pm-column>
+  </PWM>
+ </motif>
+</smallbismark>

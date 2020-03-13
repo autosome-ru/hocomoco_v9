@@ -1,0 +1,172 @@
+<html>
+  <head>
+    <META HTTP-EQUIV="pragma" CONTENT="no-cache"/>
+    
+    <title>HOCOMOCO: Homo sapiens Comprehensive Model Collection | build9-MAR2012</title>
+    <link rel="stylesheet" type="text/css" href="hocomoco.css"/>
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-27550943-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body>
+    
+    <img src='logo.png' style='margin-top: 10px;'/>
+    <h1>Homo sapiens Comprehensive Model Collection <small>(v9 - March 2012)</small></h1>
+    
+    <small><p style="color: gold; font-weight: bold;">Website mirrors: <a href="http://autosome.ru/HOCOMOCO">autosome.ru</a>, <a href="http://cbrc.kaust.edu.sa/hocomoco">KAUST</a>.</p></small>
+    
+    <p style='margin-left: 15px; margin-top: 15px;'>
+    <a href='addon/hocomoco_clusters.html'><b>[NEW]</b> Circular tree of HOCOMOCO models</a> (A-C quality)</p>
+    
+    <small><p style='margin-left: 15px; margin-top: 10px;'> UPGMA clustering, 
+    pairwise similair computed by <a href="http://autosome.ru/macroape">MACRO-APE</a> at 0.0005 P-value; uniform PWM normalization;
+    picture by <a href="http://www.jsphylosvg.com/">jsPhyloSVG</a>.
+    <br/>
+    Then the motifs are arranged in clusters (shown in alternating colors) in a way that the minimal similarity between cluster members is 0.05.
+    <br/>Download <a href='addon/hocomoco_clusters.txt'>the list of clusters</a>,
+    <a href='addon/hocomoco_clusters_logos.zip'>cluster logos</a>,
+    similarity matrix [<a href='addon/hocomoco_AC_similarity_matrix.xlsx'>xlsx</a>], [<a href='addon/hocomoco_AC_similarity_matrix.txt'>txt</a>].
+    </p>
+    </small>
+
+    <h2>Details</h2>
+    
+    <h3 style='color: black;'>HOCOMOCO-AD curated: high-confindence models</h3>
+    <p style='margin-left: 15px;'>
+    <a href='hocomoco_ad/hocomoco_ad.html'>The 'A to D'-part of the curated collection</a>
+    contains <b>manually curated</b> TFBS models.<br/>
+    </p>
+    
+    <small>
+    <p style='margin-left: 15px; margin-top: 15px;'>
+      We have used the high-performance motif discovery tool <a href="http://autosome.ru/ChIPMunk">ChIPMunk</a> to produce
+      TFBS models for human TFs integrating data from different sources. <br/>
+      ChIPMunk was used in 4 different modes searching for optimal models in the lengths range from 7 to 22bp. <br/>
+      Then we manually selected the most reasonable models for each transcription factor and assigned the quality ratings from 'A' (best)
+      to 'F' (fail). <br/>
+      The collection of <b>'A' to 'D'</b> quality models represents the most reasonable subset to be used for further analysis.
+    </p>
+    </small>
+    
+    <h3>HOCOMOCO-E curated: low-confidence models</h3>
+    <small>
+    <p style='margin-left: 15px;'>
+    <a href='hocomoco_e/hocomoco_e.html'/>The 'E'-part of the curated collection</a>
+    contains low confidence models.<br/>
+    </p>
+    </small>
+    
+    <h3 style='color: silver;'>HOCOMOCO-FULL: full collection</h3>
+    <small>
+    <p style='margin-left: 15px;'>
+    <a href='hocomoco_f/hocomoco_f.html'>The whole collection</a> 
+    listing 4 models (f1,f2,si,do) for each TF.
+    </p>
+    </small>
+    
+    <h2>Downloads</h2>
+    
+    <h3 style='color: black;'>HOCOMOCO-AD</h3>
+    <ul style='margin-left: 30px; list-style-type: none;'>
+      <li><a href='downloads/HOCOMOCOv9_AD_SMALLBISMARK_uniform.zip'>download</a> the AD <b>curated</b> collection, <a href="http://autosome.ru/smallBiSMark/smallbismark.dtd">small-BiSMark</a> XML format, <b>uniform</b> background for PWMs, one-file-per-model</li>
+      <li><a href='downloads/HOCOMOCOv9_AD_SMALLBISMARK_hg19.zip'>download</a> the AD <b>curated</b> collection, <a href="http://autosome.ru/smallBiSMark/smallbismark.dtd">small-BiSMark</a> XML format, <b>hg19</b> background for PWMs, one-file-per-model</li>
+      
+      <li><a href='downloads/HOCOMOCOv9_AD_PLAINTEXT_H_WPCM.txt'>download</a> the AD <b>curated</b> collection, plain text format, <b>weighted</b> position count matrices (WPCM), rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_AD_PLAINTEXT_V_WPCM.txt'>download</a> the AD <b>curated</b> collection, plain text format, <b>weighted</b> position count matrices (WPCM), columns as letters (ACGT)</li>
+      
+      <li><a href='downloads/HOCOMOCOv9_AD_MEME.txt'>download</a> the AD <b>curated</b> collection, MEME text format, probability matrices</li>
+      <li><a href='downloads/HOCOMOCOv9_AD_TRANSFAC.txt'>download</a> the AD <b>curated</b> collection, TRANSFAC text format, frequency matrices</li>
+      <li><a href='downloads/HOCOMOCOv9_AD_PLAINTEXT_H_PPM.txt'>download</a> the AD <b>curated</b> collection, plain text format, probability matrices, rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_AD_PLAINTEXT_V_PPM.txt'>download</a> the AD <b>curated</b> collection, plain text format, probability matrices, columns as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_AD_PLAINTEXT_H_PWM_uniform.txt'>download</a> the AD <b>curated</b> collection, plain text format, PWMs, <b>uniform</b> background, rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_AD_PLAINTEXT_H_PWM_hg19.txt'>download</a> the AD <b>curated</b> collection, plain text format, PWMs, <b>hg19</b> background, rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_AD_PLAINTEXT_V_PWM_uniform.txt'>download</a> the AD <b>curated</b> collection, plain text format, PWMs, <b>uniform</b> background, columns as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_AD_PLAINTEXT_V_PWM_hg19.txt'>download</a> the AD <b>curated</b> collection, plain text format, PWMs, <b>hg19</b> background, columns as letters (ACGT)</li>
+      
+      <li><a href='downloads/HOCOMOCOv9_AD_thresholds_PWM_uniform.zip'>download</a> precomputed PWM <b>thresholds</b> for the AD <b>curated</b> collection, plain text format, <b>uniform</b> background PWMs, one-file-per-model</li>
+      <li><a href='downloads/HOCOMOCOv9_AD_thresholds_PWM_hg19.zip'>download</a> precomputed PWM <b>thresholds</b> for the AD <b>curated</b> collection, plain text format, <b>hg19</b> background PWMs, one-file-per-model</li>
+      
+      <li><a href='downloads/HOCOMOCOv9_AD_thresholds2pvalues_PWM_uniform.zip'>download</a> precomputed PWM <b>threshold-to-P-value</b> conversion tables for the AD <b>curated</b> collection, plain text format, <b>uniform</b> background PWMs, one-file-per-model</li>
+      <li><a href='downloads/HOCOMOCOv9_AD_thresholds2pvalues_PWM_hg19.zip'>download</a> precomputed PWM <b>threshold-to-P-value</b> conversion tables for the AD <b>curated</b> collection, plain text format, <b>hg19</b> background PWMs, one-file-per-model</li>
+    </ul>
+    
+    <h3 style='color:black;'>Supplementary data</h3>
+    <ul style='margin-left: 30px; list-style-type: none;'>
+      <li>[<a href='downloads/HOCOMOCOv9_motifs2uniprot.xlsx'>xlsx</a>] [<a href='downloads/HOCOMOCOv9_motifs2uniprot.txt'>txt</a>] UniProt mappings (HUMAN and MOUSE) for HOCOMOCOv9 motifs</li>
+      <li><a href='curation/HOCOMOCOv9_curation.xlsx'>download</a> full details on human curation for HOCOMOCOv9, <b>Excel table</b></li>
+      <li><a href='downloads/README_thresholds.txt'>download</a> details on precomputed threshold files for HOCOMOCOv9 PWMs</li>
+      <li><a href='downloads/HOCOMOCOv9_full_alignments_noTRANSFAC.zip'>download</a> alignments used to produce the full collection, plain text format, masked TRANSFAC entries; scores are given for the 'uniform' PWM background</li>
+      <li><a href='downloads/HOCOMOCOv9_full_fasta_noTRANSFAC.zip'>download</a> source data used to produce the full collection, <a href='http://autosome.ru/ChIPMunk'>ChIPMunk</a>-ready multifasta, no TRANSFAC entries</li>
+    </ul>
+    
+    <h3>HOCOMOCO-E</h3>
+    <small>
+    <ul style='margin-left: 30px; list-style-type: none;'>
+      <li><a href='downloads/HOCOMOCOv9_E_SMALLBISMARK_uniform.zip'>download</a> the E part of the <b>curated</b> collection, <a href="http://autosome.ru/smallBiSMark/smallbismark.dtd">small-BiSMark</a> XML format, <b>uniform</b> background for PWMs</li>
+      <li><a href='downloads/HOCOMOCOv9_E_SMALLBISMARK_hg19.zip'>download</a> the E part of the <b>curated</b> collection, <a href="http://autosome.ru/smallBiSMark/smallbismark.dtd">small-BiSMark</a> XML format, <b>hg19</b> background for PWMs</li>
+      
+      <li><a href='downloads/HOCOMOCOv9_E_PLAINTEXT_H_WPCM.txt'>download</a> the E part of the <b>curated</b> collection, plain text format, <b>weighted</b> position count matrices (WPCM), rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_E_PLAINTEXT_V_WPCM.txt'>download</a> the E part of the <b>curated</b> collection, plain text format, <b>weighted</b> position count matrices (WPCM), columns as letters (ACGT)</li>
+      
+      <li><a href='downloads/HOCOMOCOv9_E_MEME.txt'>download</a> the E part of the <b>curated</b> collection, MEME text format, probability matrices</li>
+      <li><a href='downloads/HOCOMOCOv9_E_TRANSFAC.txt'>download</a> the E part of the <b>curated</b> collection, TRANSFAC text format, frequency matrices</li>
+      <li><a href='downloads/HOCOMOCOv9_E_PLAINTEXT_H_PPM.txt'>download</a> the E part of the <b>curated</b> collection, plain text format, probability matrices, rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_E_PLAINTEXT_V_PPM.txt'>download</a> the E part of the <b>curated</b> collection, plain text format, probability matrices, columns as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_E_PLAINTEXT_H_PWM_uniform.txt'>download</a> the E part of the <b>curated</b> collection, plain text format, PWMs, <b>uniform</b> background, rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_E_PLAINTEXT_H_PWM_hg19.txt'>download</a> the E part of the <b>curated</b> collection, plain text format, PWMs, <b>hg19</b> background, rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_E_PLAINTEXT_V_PWM_uniform.txt'>download</a> the E part of the <b>curated</b> collection, plain text format, PWMs, <b>uniform</b> background, columns as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_E_PLAINTEXT_V_PWM_hg19.txt'>download</a> the E part of the <b>curated</b> collection, plain text format, PWMs, <b>hg19</b> background, columns as letters (ACGT)</li>
+    </ul>
+    </small>
+    
+    <h3 style='color: silver;'>HOCOMOCO-FULL</h3>
+    <small>
+    <ul style='margin-left: 30px; list-style-type: none;'>
+      <li><a href='downloads/HOCOMOCOv9_full_SMALLBISMARK_uniform.zip'>download</a> the whole collection, <a href="http://autosome.ru/smallBiSMark/smallbismark.dtd">small-BiSMark</a> XML format, <b>uniform</b> background for PWMs</li>
+      <li><a href='downloads/HOCOMOCOv9_full_SMALLBISMARK_hg19.zip'>download</a> the whole collection, <a href="http://autosome.ru/smallBiSMark/smallbismark.dtd">small-BiSMark</a> XML format, <b>hg19</b> background for PWMs</li>
+      
+      <li><a href='downloads/HOCOMOCOv9_full_PLAINTEXT_H_WPCM.txt'>download</a> the whole collection, plain text format, <b>weighted</b> position count matrices (WPCM), rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_full_PLAINTEXT_V_WPCM.txt'>download</a> the whole collection, plain text format, <b>weighted</b> position count matrices (WPCM), columns as letters (ACGT)</li>
+      
+      <li><a href='downloads/HOCOMOCOv9_full_MEME.txt'>download</a> the whole collection, MEME text format, probability matrices</li>
+      <li><a href='downloads/HOCOMOCOv9_full_TRANSFAC.txt'>download</a> the whole collection, TRANSFAC text format, frequency matrices</li>
+      <li><a href='downloads/HOCOMOCOv9_full_PLAINTEXT_H_PPM.txt'>download</a> the whole collection, plain text format, probability matrices, rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_full_PLAINTEXT_V_PPM.txt'>download</a> the whole collection, plain text format, probability matrices, columns as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_full_PLAINTEXT_H_PWM_uniform.txt'>download</a> the whole collection, plain text format, PWMs, <b>uniform</b> background, rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_full_PLAINTEXT_H_PWM_hg19.txt'>download</a> the whole collection, plain text format, PWMs, <b>hg19</b> background, rows as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_full_PLAINTEXT_V_PWM_uniform.txt'>download</a> the whole collection, plain text format, PWMs, <b>uniform</b> background, columns as letters (ACGT)</li>
+      <li><a href='downloads/HOCOMOCOv9_full_PLAINTEXT_V_PWM_hg19.txt'>download</a> the whole collection, plain text format, PWMs, <b>hg19</b> background, columns as letters (ACGT)</li>
+    </ul>
+    </small>
+    
+    <h2>Updates</h2>
+    <small>
+    <p style='margin-left: 15px;'>
+      <b style="font-family: Monospace; font-size: 11pt;">[24 APR 2012]</b> Improved visual representation for circular tree for HOCOMOCO-AC motifs.<br/>
+      <b style="font-family: Monospace; font-size: 11pt;">[20 APR 2012]</b> Circular tree for HOCOMOCO-AC motifs is available.<br/>
+      <b style="font-family: Monospace; font-size: 11pt;">[10 APR 2012]</b> UniProt mappings (HUMAN and MOUSE) for HOCOMOCO motifs are available for separate download.<br/>
+      <b style="font-family: Monospace; font-size: 11pt;">[17 MAR 2012]</b> HOCOMOCO v9 released. Many minor annotation fixes, downloads section updated.<br/>
+      <b style="font-family: Monospace; font-size: 11pt;">[16 DEC 2011]</b> E-collection list is now available online.<br/>
+      <b style="font-family: Monospace; font-size: 11pt;">[15 DEC 2011]</b> Complete separate model details pages for the HOCOMOCO-AD collection.<br/>
+      <b style="font-family: Monospace; font-size: 11pt;">[14 DEC 2011]</b> Precomputed thresholds for the HOCOMOCO-AD are available for download.<br/>
+      <b style="font-family: Monospace; font-size: 11pt;">[13 DEC 2011]</b> WPCM (weighted PCM) tag added to the small-BiSMark files. Downloads section updated.<br/>
+      <b style="font-family: Monospace; font-size: 11pt;">[13 DEC 2011]</b> Weighted PCMs are now available to download in the plain text format.
+    </p>
+    </small>
+    
+    <h2>Contact</h2>
+    <b>Ivan Kulakovskiy</b> ivan-dot-kulakovskiy-at-gmail-dot-com <br/>
+    <b>Yulia Medvedeva</b> yulia-dot-medvedeva-at-kaust-dot-edu-dot-sa
+    
+  </body>
+</html>

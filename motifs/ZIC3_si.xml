@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='ZIC3' id='ZIC3.MTF'>
+  <comment name='discrete information content by position'>[-0.712181223527978, -0.356789168143755, -0.103716485804875, -0.715061365784361, -1.02945671233552, -0.743262846559407, -0.792638960483243]</comment>
+  <comment name='discrete information content'>-4.45310676263914</comment>
+  <PPM words-count='34.0' length='7'>
+   <pm-column position='1'>
+    <a>0.154411764705882</a>
+    <c>0.125</c>
+    <g>0.713235294117647</g>
+    <t>0.00735294117647059</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.0294117647058824</a>
+    <c>0.0</c>
+    <g>0.88235294117647</g>
+    <t>0.0882352941176471</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.0</a>
+    <c>0.0294117647058824</c>
+    <g>0.970588235294117</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.0588235294117647</a>
+    <c>0.0</c>
+    <g>0.294117647058824</g>
+    <t>0.647058823529412</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.294117647058824</a>
+    <c>0.117647058823529</c>
+    <g>0.5</g>
+    <t>0.0882352941176471</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.117647058823529</a>
+    <c>0.205882352941177</c>
+    <g>0.676470588235294</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.00735294117647059</a>
+    <c>0.272058823529412</c>
+    <g>0.0955882352941177</g>
+    <t>0.625</t>
+   </pm-column>
+  </PPM>
+  <PWM words-count='34.0' length='7'>
+   <pm-column position='1'>
+    <a>-0.425295154425137</a>
+    <c>-0.603333693988462</c>
+    <g>0.985376353535691</g>
+    <t>-2.11512543296406</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>-1.60663203844179</a>
+    <c>-2.36477730711848</c>
+    <g>1.19141094548751</g>
+    <t>-0.882504374932022</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>-2.36477730711848</a>
+    <c>-1.60663203844179</c>
+    <g>1.28412253066817</g>
+    <t>-2.36477730711848</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>-1.1804070015741</a>
+    <c>-2.36477730711848</c>
+    <g>0.148323110281325</g>
+    <t>0.891583390608097</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.148323110281325</a>
+    <c>-0.653278258891267</c>
+    <g>0.645022427072927</g>
+    <t>-0.882504374932022</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>-0.653278258891267</a>
+    <c>-0.174219595421905</c>
+    <g>0.934358602486452</g>
+    <t>-2.36477730711848</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>-2.11512543296406</a>
+    <c>0.0769090061871291</c>
+    <g>-0.820086919706041</g>
+    <t>0.858256733350183</t>
+   </pm-column>
+  </PWM>
+ </motif>
+</smallbismark>

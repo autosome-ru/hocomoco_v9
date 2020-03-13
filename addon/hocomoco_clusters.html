@@ -1,0 +1,38 @@
+    <html>
+    <head>
+      <link type="text/css" rel="stylesheet" href="js/yui/build/cssfonts/fonts-min.css" /> 
+      <script type="text/javascript" src="js/raphael/raphael-min.js" ></script> 
+      <script type="text/javascript" src="js/yui/build/yui/yui.js"></script> 
+      <script type="text/javascript" src="js/jsphylosvg-min.js"></script> 
+      <!-- unitip -->
+      <link rel="stylesheet" type="text/css" href="js/unitip/css/unitip.css" > 
+      <script type="text/javascript" src="js/unitip/js/unitip.js"></script> 	
+      <script type="text/javascript">
+      window.onload = function(){
+        YUI().use('oop', 'json-stringify', 'io-base', 'event', 'event-delegate', function(Y){
+          var uri = "ave_clustered_maxdist_displayed.xml";
+          function complete(id, o, args) {
+            var data = o.responseXML; // Response data.
+            var dataObject = {
+                  xml: data,
+                  fileSource: true
+                };
+            phylocanvas = new Smits.PhyloCanvas(
+              dataObject,
+              'svgCanvas', 
+              1800, 1800,
+              'circular'
+            );
+            
+            init(); //unitip
+          };
+          Y.on('io:complete', complete, Y);
+          var request = Y.io(uri);
+        });
+      };
+      </script>
+    </head>
+    <body>
+      <div id="svgCanvas"/>
+    </body>
+    </html>

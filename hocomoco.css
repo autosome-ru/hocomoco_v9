@@ -1,0 +1,56 @@
+* {margin: 0; padding: 0}
+
+body {
+  font-family: Sans-Serif; 
+  background: lightyellow;
+  margin-left: 100px;
+  margin-right: 40px;
+  padding-bottom: 40px;
+}
+
+a {
+  color: brown;
+}
+a:hover {
+  background-color: gold;
+}
+
+a.simple {
+  border: 0;
+}
+
+td {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: gold;
+  border-bottom: 1px solid;
+}
+
+h2 {
+  color: gray;
+  font-size: 120%;
+  border-bottom: 1px solid;
+  margin-bottom: 15px;
+  margin-top: 30px;
+}
+
+h3 {
+  margin-left: 15px;
+  color: gray;
+  font-size: 110%;
+  padding: 0;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+li {
+  margin-top: 5px;
+}

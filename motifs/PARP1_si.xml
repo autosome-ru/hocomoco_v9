@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='PARP1' id='PARP1.MTF'>
+  <comment name='discrete information content by position'>[-0.922805529201672, -0.822587339648155, -0.45853271697547, -0.173401415643794, -0.567879512783289, -0.583086395231374, -0.192394936637415, -0.85783075284645, -1.00617049954612, -0.788466047200469, -0.992550780999598, -0.97849506568208]</comment>
+  <comment name='discrete information content'>-8.34420099239589</comment>
+  <PPM words-count='15.0' length='12'>
+   <pm-column position='1'>
+    <a>0.208</a>
+    <c>0.192</c>
+    <g>0.072</g>
+    <t>0.528</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.192</a>
+    <c>0.528</c>
+    <g>0.28</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.136</a>
+    <c>0.0</c>
+    <g>0.056</g>
+    <t>0.808</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.064</a>
+    <c>0.0</c>
+    <g>0.936</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.4</a>
+    <c>0.0</c>
+    <g>0.6</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.456</a>
+    <c>0.0</c>
+    <g>0.544</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.928</a>
+    <c>0.072</c>
+    <g>0.0</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>0.392</a>
+    <c>0.416</c>
+    <g>0.0</g>
+    <t>0.192</t>
+   </pm-column>
+   <pm-column position='9'>
+    <a>0.328</a>
+    <c>0.272</c>
+    <g>0.064</g>
+    <t>0.336</t>
+   </pm-column>
+   <pm-column position='10'>
+    <a>0.328</a>
+    <c>0.536</c>
+    <g>0.136</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='11'>
+    <a>0.272</a>
+    <c>0.336</c>
+    <g>0.056</g>
+    <t>0.336</t>
+   </pm-column>
+   <pm-column position='12'>
+    <a>0.256</a>
+    <c>0.136</c>
+    <g>0.48</g>
+    <t>0.128</t>
+   </pm-column>
+  </PPM>
+  <PWM words-count='15.0' length='12'>
+   <pm-column position='1'>
+    <a>-0.153510402127367</a>
+    <c>-0.218803967393413</c>
+    <g>-0.924110036491698</g>
+    <t>0.663689776349735</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>-0.218803967393413</a>
+    <c>0.663689776349735</c>
+    <g>0.0968078613992442</g>
+    <t>-1.87779045685362</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>-0.488192039085015</a>
+    <c>-1.87779045685362</c>
+    <g>-1.07098201526425</g>
+    <t>1.06148676048999</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>-0.994852023694142</a>
+    <c>-1.87779045685362</c>
+    <g>1.20127915227053</g>
+    <t>-1.87779045685362</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.410945675816754</a>
+    <c>-1.87779045685362</c>
+    <g>0.78202824413085</g>
+    <t>-1.87779045685362</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.529443803094497</a>
+    <c>-1.87779045685362</c>
+    <g>0.691223884046134</g>
+    <t>-1.87779045685362</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>1.19309189924753</a>
+    <c>-0.924110036491698</c>
+    <g>-1.87779045685362</g>
+    <t>-1.87779045685362</t>
+   </pm-column>
+   <pm-column position='8'>
+    <a>0.392810106621608</a>
+    <c>0.44625897534191</c>
+    <g>-1.87779045685362</g>
+    <t>-0.218803967393413</t>
+   </pm-column>
+   <pm-column position='9'>
+    <a>0.234507993543466</a>
+    <c>0.0718948670368328</c>
+    <g>-0.994852023694142</g>
+    <t>0.255721398849779</t>
+   </pm-column>
+   <pm-column position='10'>
+    <a>0.234507993543466</a>
+    <c>0.677551593090391</c>
+    <g>-0.488192039085015</g>
+    <t>-1.87779045685362</t>
+   </pm-column>
+   <pm-column position='11'>
+    <a>0.0718948670368328</a>
+    <c>0.255721398849779</c>
+    <g>-1.07098201526425</g>
+    <t>0.255721398849779</t>
+   </pm-column>
+   <pm-column position='12'>
+    <a>0.0201258464372281</a>
+    <c>-0.488192039085015</c>
+    <g>0.576223725315939</g>
+    <t>-0.533363223411045</t>
+   </pm-column>
+  </PWM>
+ </motif>
+</smallbismark>

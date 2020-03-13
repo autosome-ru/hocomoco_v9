@@ -1,0 +1,4465 @@
+    <phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd" xmlns="http://www.phyloxml.org">
+    <phylogeny rooted="false">
+    <render>
+      <!-- <charts>
+        <component type="binary" thickness="10" isInternal="true" />
+      </charts> -->
+      <styles>
+        <first_cluster_group fill='#9F9' stroke='#FFF' />
+        <second_cluster_group fill='#F99' stroke='#FFF' />
+      </styles>
+      <parameters>
+        <circular>
+            <innerCircleRadius>100</innerCircleRadius>
+        </circular>
+      </parameters>
+    </render>
+    <clade>
+    <branch_length> 0.0 </branch_length>
+    <clade>
+    <branch_length> 0.0 </branch_length>
+            <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.047</branch_length>
+                <clade>
+        <branch_length>0.952</branch_length>
+                <name bgStyle="first_cluster_group">EVI1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/EVI1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/EVI1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.322</branch_length>
+                <clade>
+        <branch_length>0.63</branch_length>
+                <name bgStyle="second_cluster_group">GATA2_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GATA2_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GATA2_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.337</branch_length>
+                <clade>
+        <branch_length>0.293</branch_length>
+                <name bgStyle="second_cluster_group">GATA1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GATA1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GATA1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.293</branch_length>
+                <name bgStyle="second_cluster_group">GATA6_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GATA6_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GATA6_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.205</branch_length>
+                <clade>
+        <branch_length>0.426</branch_length>
+                <name bgStyle="second_cluster_group">GATA3_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GATA3_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GATA3_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.426</branch_length>
+                <name bgStyle="second_cluster_group">GATA4_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GATA4_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GATA4_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.004</branch_length>
+                <clade>
+        <branch_length>0.022</branch_length>
+                <clade>
+        <branch_length>0.338</branch_length>
+                <clade>
+        <branch_length>0.635</branch_length>
+                <name bgStyle="first_cluster_group">GFI1B_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GFI1B_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GFI1B_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.635</branch_length>
+                <name bgStyle="first_cluster_group">GFI1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GFI1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GFI1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.106</branch_length>
+                <clade>
+        <branch_length>0.867</branch_length>
+                <name bgStyle="second_cluster_group">FOS_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOS_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOS_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.082</branch_length>
+                <clade>
+        <branch_length>0.785</branch_length>
+                <name bgStyle="second_cluster_group">PBX3_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PBX3_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PBX3_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.047</branch_length>
+                <clade>
+        <branch_length>0.738</branch_length>
+                <name bgStyle="second_cluster_group">FOXI1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXI1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXI1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.123</branch_length>
+                <clade>
+        <branch_length>0.614</branch_length>
+                <name bgStyle="second_cluster_group">NFYC_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFYC_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFYC_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.342</branch_length>
+                <clade>
+        <branch_length>0.273</branch_length>
+                <name bgStyle="second_cluster_group">NFYA_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFYA_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFYA_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.273</branch_length>
+                <name bgStyle="second_cluster_group">NFYB_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFYB_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFYB_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.021</branch_length>
+                <clade>
+        <branch_length>0.974</branch_length>
+                <name bgStyle="first_cluster_group">HNF6_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HNF6_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HNF6_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.974</branch_length>
+                <name bgStyle="second_cluster_group">CUX1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CUX1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CUX1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.036</branch_length>
+                <clade>
+        <branch_length>0.938</branch_length>
+                <name bgStyle="first_cluster_group">HXA1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HXA1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HXA1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.063</branch_length>
+                <clade>
+        <branch_length>0.875</branch_length>
+                <name bgStyle="first_cluster_group">PBX2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PBX2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PBX2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.073</branch_length>
+                <clade>
+        <branch_length>0.802</branch_length>
+                <name bgStyle="first_cluster_group">PBX1_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PBX1_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PBX1_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.463</branch_length>
+                <clade>
+        <branch_length>0.339</branch_length>
+                <name bgStyle="first_cluster_group">HXB7_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HXB7_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HXB7_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.339</branch_length>
+                <name bgStyle="first_cluster_group">HXB8_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HXB8_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HXB8_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.006</branch_length>
+                <clade>
+        <branch_length>0.239</branch_length>
+                <clade>
+        <branch_length>0.754</branch_length>
+                <name bgStyle="second_cluster_group">CRX_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CRX_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CRX_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.754</branch_length>
+                <name bgStyle="second_cluster_group">OTX2_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/OTX2_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/OTX2_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.017</branch_length>
+                <clade>
+        <branch_length>0.977</branch_length>
+                <name bgStyle="first_cluster_group">NKX31_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NKX31_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NKX31_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.02</branch_length>
+                <clade>
+        <branch_length>0.957</branch_length>
+                <name bgStyle="second_cluster_group">ALX1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ALX1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ALX1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.05</branch_length>
+                <clade>
+        <branch_length>0.907</branch_length>
+                <name bgStyle="first_cluster_group">LHX3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/LHX3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/LHX3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.123</branch_length>
+                <clade>
+        <branch_length>0.784</branch_length>
+                <name bgStyle="first_cluster_group">PDX1_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PDX1_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PDX1_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.099</branch_length>
+                <clade>
+        <branch_length>0.685</branch_length>
+                <name bgStyle="first_cluster_group">DLX3_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/DLX3_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/DLX3_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.324</branch_length>
+                <clade>
+        <branch_length>0.361</branch_length>
+                <name bgStyle="first_cluster_group">NOBOX_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NOBOX_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NOBOX_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.361</branch_length>
+                <name bgStyle="first_cluster_group">PRRX2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PRRX2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PRRX2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.009</branch_length>
+                <clade>
+        <branch_length>0.991</branch_length>
+                <name bgStyle="second_cluster_group">ARI5B_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ARI5B_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ARI5B_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.032</branch_length>
+                <clade>
+        <branch_length>0.959</branch_length>
+                <name bgStyle="first_cluster_group">AIRE_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/AIRE_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/AIRE_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.959</branch_length>
+                <name bgStyle="second_cluster_group">HXA13_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HXA13_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HXA13_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.015</branch_length>
+                <clade>
+        <branch_length>0.383</branch_length>
+                <clade>
+        <branch_length>0.601</branch_length>
+                <name bgStyle="first_cluster_group">MEF2D_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MEF2D_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MEF2D_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.02</branch_length>
+                <clade>
+        <branch_length>0.581</branch_length>
+                <name bgStyle="first_cluster_group">MEF2A_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MEF2A_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MEF2A_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.581</branch_length>
+                <name bgStyle="first_cluster_group">MEF2C_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MEF2C_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MEF2C_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.031</branch_length>
+                <clade>
+        <branch_length>0.954</branch_length>
+                <name bgStyle="second_cluster_group">TBP_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/TBP_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TBP_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.101</branch_length>
+                <clade>
+        <branch_length>0.853</branch_length>
+                <name bgStyle="first_cluster_group">HXA10_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HXA10_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HXA10_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.118</branch_length>
+                <clade>
+        <branch_length>0.735</branch_length>
+                <name bgStyle="first_cluster_group">CDX1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CDX1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CDX1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.735</branch_length>
+                <name bgStyle="first_cluster_group">CDX2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CDX2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CDX2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.001</branch_length>
+                <clade>
+        <branch_length>0.999</branch_length>
+                <name bgStyle="second_cluster_group">NANOG_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NANOG_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NANOG_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.001</branch_length>
+                <clade>
+        <branch_length>0.221</branch_length>
+                <clade>
+        <branch_length>0.777</branch_length>
+                <name bgStyle="first_cluster_group">HNF1A_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HNF1A_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HNF1A_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.777</branch_length>
+                <name bgStyle="first_cluster_group">HNF1B_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HNF1B_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HNF1B_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.038</branch_length>
+                <clade>
+        <branch_length>0.96</branch_length>
+                <name bgStyle="second_cluster_group">FOXJ3_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXJ3_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXJ3_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.018</branch_length>
+                <clade>
+        <branch_length>0.942</branch_length>
+                <name bgStyle="first_cluster_group">FOXJ3_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXJ3_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXJ3_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.109</branch_length>
+                <clade>
+        <branch_length>0.117</branch_length>
+                <clade>
+        <branch_length>0.716</branch_length>
+                <name bgStyle="first_cluster_group">FOXO1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXO1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXO1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.716</branch_length>
+                <name bgStyle="first_cluster_group">FOXO3_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXO3_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXO3_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.06</branch_length>
+                <clade>
+        <branch_length>0.773</branch_length>
+                <name bgStyle="first_cluster_group">FOXO4_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXO4_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXO4_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.773</branch_length>
+                <name bgStyle="first_cluster_group">FOXP2_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXP2_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXP2_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.014</branch_length>
+                <clade>
+        <branch_length>0.928</branch_length>
+                <name bgStyle="first_cluster_group">FOXQ1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXQ1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXQ1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.074</branch_length>
+                <clade>
+        <branch_length>0.854</branch_length>
+                <name bgStyle="first_cluster_group">FOXC1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXC1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXC1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.064</branch_length>
+                <clade>
+        <branch_length>0.79</branch_length>
+                <name bgStyle="first_cluster_group">FOXJ2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXJ2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXJ2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.159</branch_length>
+                <clade>
+        <branch_length>0.631</branch_length>
+                <name bgStyle="first_cluster_group">FOXA3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXA3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXA3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.225</branch_length>
+                <clade>
+        <branch_length>0.406</branch_length>
+                <name bgStyle="first_cluster_group">FOXA1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXA1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXA1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.406</branch_length>
+                <name bgStyle="first_cluster_group">FOXA2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOXA2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXA2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.001</branch_length>
+                <clade>
+        <branch_length>0.583</branch_length>
+                <clade>
+        <branch_length>0.416</branch_length>
+                <name bgStyle="second_cluster_group">SMAD3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SMAD3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SMAD3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.416</branch_length>
+                <name bgStyle="second_cluster_group">SMAD4_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SMAD4_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SMAD4_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.011</branch_length>
+                <clade>
+        <branch_length>0.988</branch_length>
+                <name bgStyle="first_cluster_group">P53_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/P53_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/P53_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.012</branch_length>
+                <clade>
+        <branch_length>0.976</branch_length>
+                <name bgStyle="second_cluster_group">NRF1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NRF1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NRF1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.976</branch_length>
+                <name bgStyle="first_cluster_group">ZFX_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ZFX_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZFX_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>1.0</branch_length>
+                <name bgStyle="second_cluster_group">OVOL1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/OVOL1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/OVOL1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.014</branch_length>
+                <clade>
+        <branch_length>0.986</branch_length>
+                <name bgStyle="first_cluster_group">PTF1A_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PTF1A_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PTF1A_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.065</branch_length>
+                <clade>
+        <branch_length>0.921</branch_length>
+                <name bgStyle="second_cluster_group">HEN1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HEN1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HEN1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.921</branch_length>
+                <name bgStyle="second_cluster_group">TFAP4_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/TFAP4_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TFAP4_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.108</branch_length>
+                <clade>
+        <branch_length>0.878</branch_length>
+                <name bgStyle="first_cluster_group">TAL1_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/TAL1_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TAL1_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.151</branch_length>
+                <clade>
+        <branch_length>0.727</branch_length>
+                <name bgStyle="first_cluster_group">TAL1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/TAL1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TAL1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.727</branch_length>
+                <name bgStyle="first_cluster_group">TFE2_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/TFE2_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TFE2_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.068</branch_length>
+                <clade>
+        <branch_length>0.379</branch_length>
+                <clade>
+        <branch_length>0.538</branch_length>
+                <name bgStyle="second_cluster_group">ITF2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ITF2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ITF2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.476</branch_length>
+                <clade>
+        <branch_length>0.063</branch_length>
+                <name bgStyle="second_cluster_group">SNAI1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SNAI1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SNAI1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.063</branch_length>
+                <name bgStyle="second_cluster_group">SNAI2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SNAI2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SNAI2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.113</branch_length>
+                <clade>
+        <branch_length>0.804</branch_length>
+                <name bgStyle="second_cluster_group">NDF1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NDF1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NDF1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.121</branch_length>
+                <clade>
+        <branch_length>0.684</branch_length>
+                <name bgStyle="second_cluster_group">MYOD1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MYOD1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MYOD1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.23</branch_length>
+                <clade>
+        <branch_length>0.454</branch_length>
+                <name bgStyle="second_cluster_group">HTF4_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HTF4_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HTF4_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.454</branch_length>
+                <name bgStyle="second_cluster_group">MYF6_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MYF6_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MYF6_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.017</branch_length>
+                <clade>
+        <branch_length>0.983</branch_length>
+                <name bgStyle="first_cluster_group">MYB_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MYB_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MYB_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.217</branch_length>
+                <clade>
+        <branch_length>0.765</branch_length>
+                <name bgStyle="second_cluster_group">MEIS1_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MEIS1_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MEIS1_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.765</branch_length>
+                <name bgStyle="second_cluster_group">MEIS2_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MEIS2_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MEIS2_do.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.001</branch_length>
+                <clade>
+        <branch_length>0.999</branch_length>
+                <name bgStyle="first_cluster_group">REST_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/REST_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/REST_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.999</branch_length>
+                <name bgStyle="second_cluster_group">MAF_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MAF_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MAF_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.068</branch_length>
+                <clade>
+        <branch_length>0.215</branch_length>
+                <clade>
+        <branch_length>0.716</branch_length>
+                <name bgStyle="first_cluster_group">BACH1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/BACH1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/BACH1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.716</branch_length>
+                <name bgStyle="first_cluster_group">NFE2_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFE2_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFE2_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.074</branch_length>
+                <clade>
+        <branch_length>0.857</branch_length>
+                <name bgStyle="first_cluster_group">FOSL1_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOSL1_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOSL1_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.063</branch_length>
+                <clade>
+        <branch_length>0.794</branch_length>
+                <name bgStyle="first_cluster_group">FOSB_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOSB_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOSB_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.081</branch_length>
+                <clade>
+        <branch_length>0.186</branch_length>
+                <clade>
+        <branch_length>0.527</branch_length>
+                <name bgStyle="first_cluster_group">BATF_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/BATF_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/BATF_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.527</branch_length>
+                <name bgStyle="first_cluster_group">JUNB_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/JUNB_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/JUNB_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.133</branch_length>
+                <clade>
+        <branch_length>0.58</branch_length>
+                <name bgStyle="first_cluster_group">SMRC1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SMRC1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SMRC1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.159</branch_length>
+                <clade>
+        <branch_length>0.421</branch_length>
+                <name bgStyle="first_cluster_group">JUN_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/JUN_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/JUN_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.057</branch_length>
+                <clade>
+        <branch_length>0.363</branch_length>
+                <name bgStyle="first_cluster_group">FOSL2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FOSL2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOSL2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.363</branch_length>
+                <name bgStyle="first_cluster_group">JUND_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/JUND_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/JUND_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.047</branch_length>
+                <clade>
+        <branch_length>0.951</branch_length>
+                <name bgStyle="second_cluster_group">NF2L1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NF2L1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NF2L1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.082</branch_length>
+                <clade>
+        <branch_length>0.869</branch_length>
+                <name bgStyle="first_cluster_group">ATF3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ATF3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ATF3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.087</branch_length>
+                <clade>
+        <branch_length>0.782</branch_length>
+                <name bgStyle="first_cluster_group">CREM_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CREM_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CREM_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.156</branch_length>
+                <clade>
+        <branch_length>0.626</branch_length>
+                <name bgStyle="first_cluster_group">ATF1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ATF1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ATF1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.066</branch_length>
+                <clade>
+        <branch_length>0.559</branch_length>
+                <name bgStyle="first_cluster_group">ATF2+4_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ATF2+ATF4_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ATF2+ATF4_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.559</branch_length>
+                <name bgStyle="first_cluster_group">CREB1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CREB1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CREB1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.001</branch_length>
+                <clade>
+        <branch_length>0.998</branch_length>
+                <name bgStyle="second_cluster_group">HINFP_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HINFP_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HINFP_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.095</branch_length>
+                <clade>
+        <branch_length>0.903</branch_length>
+                <name bgStyle="first_cluster_group">ATF6A_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ATF6A_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ATF6A_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.903</branch_length>
+                <name bgStyle="first_cluster_group">XBP1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/XBP1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/XBP1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.069</branch_length>
+                <clade>
+        <branch_length>0.929</branch_length>
+                <name bgStyle="second_cluster_group">HIF1A_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HIF1A_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HIF1A_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.174</branch_length>
+                <clade>
+        <branch_length>0.755</branch_length>
+                <name bgStyle="second_cluster_group">AHR_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/AHR_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/AHR_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.755</branch_length>
+                <name bgStyle="second_cluster_group">ARNT_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ARNT_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ARNT_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.071</branch_length>
+                <clade>
+        <branch_length>0.927</branch_length>
+                <name bgStyle="first_cluster_group">BMAL1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/BMAL1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/BMAL1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.927</branch_length>
+                <name bgStyle="first_cluster_group">ENOA_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ENOA_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ENOA_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.019</branch_length>
+                <clade>
+        <branch_length>0.042</branch_length>
+                <clade>
+        <branch_length>0.866</branch_length>
+                <name bgStyle="first_cluster_group">MITF_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MITF_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MITF_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.063</branch_length>
+                <clade>
+        <branch_length>0.803</branch_length>
+                <name bgStyle="first_cluster_group">USF2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/USF2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/USF2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.052</branch_length>
+                <clade>
+        <branch_length>0.751</branch_length>
+                <name bgStyle="first_cluster_group">TFE3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/TFE3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TFE3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.161</branch_length>
+                <clade>
+        <branch_length>0.591</branch_length>
+                <name bgStyle="first_cluster_group">TFEB_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/TFEB_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TFEB_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.591</branch_length>
+                <name bgStyle="first_cluster_group">USF1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/USF1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/USF1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.08</branch_length>
+                <clade>
+        <branch_length>0.828</branch_length>
+                <name bgStyle="first_cluster_group">BHE40_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/BHE40_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/BHE40_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.141</branch_length>
+                <clade>
+        <branch_length>0.687</branch_length>
+                <name bgStyle="first_cluster_group">MYCN_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MYCN_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MYCN_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.099</branch_length>
+                <clade>
+        <branch_length>0.588</branch_length>
+                <name bgStyle="first_cluster_group">MAX_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MAX_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MAX_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.588</branch_length>
+                <name bgStyle="first_cluster_group">MYC_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MYC_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MYC_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.001</branch_length>
+                <clade>
+        <branch_length>0.999</branch_length>
+                <name bgStyle="second_cluster_group">MTF1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MTF1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MTF1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.005</branch_length>
+                <clade>
+        <branch_length>0.994</branch_length>
+                <name bgStyle="first_cluster_group">DDIT3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/DDIT3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/DDIT3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.044</branch_length>
+                <clade>
+        <branch_length>0.158</branch_length>
+                <clade>
+        <branch_length>0.792</branch_length>
+                <name bgStyle="second_cluster_group">HLF_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HLF_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HLF_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.052</branch_length>
+                <clade>
+        <branch_length>0.74</branch_length>
+                <name bgStyle="second_cluster_group">DBP_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/DBP_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/DBP_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.74</branch_length>
+                <name bgStyle="second_cluster_group">NFIL3_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFIL3_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFIL3_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.096</branch_length>
+                <clade>
+        <branch_length>0.854</branch_length>
+                <name bgStyle="first_cluster_group">CEBPE_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CEBPE_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CEBPE_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.121</branch_length>
+                <clade>
+        <branch_length>0.733</branch_length>
+                <name bgStyle="first_cluster_group">CEBPG_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CEBPG_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CEBPG_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.179</branch_length>
+                <clade>
+        <branch_length>0.555</branch_length>
+                <name bgStyle="first_cluster_group">CEBPD_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CEBPD_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CEBPD_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.143</branch_length>
+                <clade>
+        <branch_length>0.412</branch_length>
+                <name bgStyle="first_cluster_group">CEBPA_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CEBPA_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CEBPA_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.412</branch_length>
+                <name bgStyle="first_cluster_group">CEBPB_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CEBPB_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CEBPB_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.001</branch_length>
+                <clade>
+        <branch_length>0.004</branch_length>
+                <clade>
+        <branch_length>0.31</branch_length>
+                <clade>
+        <branch_length>0.685</branch_length>
+                <name bgStyle="second_cluster_group">HSF1_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HSF1_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HSF1_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.685</branch_length>
+                <name bgStyle="second_cluster_group">HSF2_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HSF2_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HSF2_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.043</branch_length>
+                <clade>
+        <branch_length>0.952</branch_length>
+                <name bgStyle="first_cluster_group">BCL6_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/BCL6_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/BCL6_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.952</branch_length>
+                <name bgStyle="second_cluster_group">STAT6_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/STAT6_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STAT6_do.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.1</branch_length>
+                <clade>
+        <branch_length>0.852</branch_length>
+                <name bgStyle="first_cluster_group">STAT4_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/STAT4_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STAT4_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.015</branch_length>
+                <clade>
+        <branch_length>0.837</branch_length>
+                <name bgStyle="first_cluster_group">STAT3_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/STAT3_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STAT3_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.05</branch_length>
+                <clade>
+        <branch_length>0.786</branch_length>
+                <name bgStyle="first_cluster_group">STAT1_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/STAT1_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STAT1_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.262</branch_length>
+                <clade>
+        <branch_length>0.525</branch_length>
+                <name bgStyle="first_cluster_group">STA5A_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/STA5A_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STA5A_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.525</branch_length>
+                <name bgStyle="first_cluster_group">STA5B_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/STA5B_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STA5B_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.134</branch_length>
+                <clade>
+        <branch_length>0.864</branch_length>
+                <name bgStyle="second_cluster_group">IKZF1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/IKZF1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IKZF1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.864</branch_length>
+                <name bgStyle="second_cluster_group">SUH_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SUH_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SUH_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.002</branch_length>
+                <clade>
+        <branch_length>0.997</branch_length>
+                <name bgStyle="first_cluster_group">ZN384_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ZN384_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZN384_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.005</branch_length>
+                <clade>
+        <branch_length>0.148</branch_length>
+                <clade>
+        <branch_length>0.844</branch_length>
+                <name bgStyle="second_cluster_group">REL_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/REL_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/REL_do.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.075</branch_length>
+                <clade>
+        <branch_length>0.769</branch_length>
+                <name bgStyle="second_cluster_group">RELB_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RELB_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RELB_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.198</branch_length>
+                <clade>
+        <branch_length>0.571</branch_length>
+                <name bgStyle="second_cluster_group">NFKB1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFKB1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFKB1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.571</branch_length>
+                <name bgStyle="second_cluster_group">TF65_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/TF65_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TF65_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.059</branch_length>
+                <clade>
+        <branch_length>0.933</branch_length>
+                <name bgStyle="first_cluster_group">NFAC1_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFAC1_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFAC1_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.125</branch_length>
+                <clade>
+        <branch_length>0.807</branch_length>
+                <name bgStyle="first_cluster_group">NFAC1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFAC1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFAC1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.082</branch_length>
+                <clade>
+        <branch_length>0.726</branch_length>
+                <name bgStyle="first_cluster_group">NFAC3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFAC3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFAC3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.14</branch_length>
+                <clade>
+        <branch_length>0.586</branch_length>
+                <name bgStyle="first_cluster_group">NFAC2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFAC2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFAC2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.586</branch_length>
+                <name bgStyle="first_cluster_group">NFAC4_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFAC4_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFAC4_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.014</branch_length>
+                <clade>
+        <branch_length>0.181</branch_length>
+                <clade>
+        <branch_length>0.804</branch_length>
+                <name bgStyle="second_cluster_group">SOX9_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SOX9_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SOX9_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.09</branch_length>
+                <clade>
+        <branch_length>0.714</branch_length>
+                <name bgStyle="second_cluster_group">SOX5_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SOX5_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SOX5_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.714</branch_length>
+                <name bgStyle="second_cluster_group">SRY_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SRY_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SRY_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.062</branch_length>
+                <clade>
+        <branch_length>0.923</branch_length>
+                <name bgStyle="first_cluster_group">SOX4_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SOX4_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SOX4_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.181</branch_length>
+                <clade>
+        <branch_length>0.742</branch_length>
+                <name bgStyle="first_cluster_group">TCF7_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/TCF7_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TCF7_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.058</branch_length>
+                <clade>
+        <branch_length>0.684</branch_length>
+                <name bgStyle="first_cluster_group">LEF1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/LEF1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/LEF1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.684</branch_length>
+                <name bgStyle="first_cluster_group">TF7L2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/TF7L2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TF7L2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.007</branch_length>
+                <clade>
+        <branch_length>0.064</branch_length>
+                <clade>
+        <branch_length>0.928</branch_length>
+                <name bgStyle="second_cluster_group">PO3F1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PO3F1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PO3F1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.168</branch_length>
+                <clade>
+        <branch_length>0.759</branch_length>
+                <name bgStyle="second_cluster_group">PO5F1_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PO5F1_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PO5F1_do.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.759</branch_length>
+                <name bgStyle="second_cluster_group">SOX2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SOX2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SOX2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.068</branch_length>
+                <clade>
+        <branch_length>0.924</branch_length>
+                <name bgStyle="first_cluster_group">PIT1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PIT1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PIT1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.374</branch_length>
+                <clade>
+        <branch_length>0.551</branch_length>
+                <name bgStyle="first_cluster_group">PO2F1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PO2F1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PO2F1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.551</branch_length>
+                <name bgStyle="first_cluster_group">PO2F2_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PO2F2_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PO2F2_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.002</branch_length>
+                <clade>
+        <branch_length>0.997</branch_length>
+                <name bgStyle="second_cluster_group">NR2E3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR2E3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR2E3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.001</branch_length>
+                <clade>
+        <branch_length>0.997</branch_length>
+                <name bgStyle="first_cluster_group">ATF5_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ATF5_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ATF5_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.005</branch_length>
+                <clade>
+        <branch_length>0.101</branch_length>
+                <clade>
+        <branch_length>0.89</branch_length>
+                <name bgStyle="second_cluster_group">PRDM1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PRDM1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PRDM1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.039</branch_length>
+                <clade>
+        <branch_length>0.851</branch_length>
+                <name bgStyle="second_cluster_group">IRF9_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/IRF9_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF9_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.009</branch_length>
+                <clade>
+        <branch_length>0.842</branch_length>
+                <name bgStyle="second_cluster_group">IRF7_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/IRF7_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF7_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.077</branch_length>
+                <clade>
+        <branch_length>0.765</branch_length>
+                <name bgStyle="second_cluster_group">STAT2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/STAT2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STAT2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.065</branch_length>
+                <clade>
+        <branch_length>0.7</branch_length>
+                <name bgStyle="second_cluster_group">IRF3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/IRF3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.231</branch_length>
+                <clade>
+        <branch_length>0.469</branch_length>
+                <name bgStyle="second_cluster_group">IRF1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/IRF1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.469</branch_length>
+                <name bgStyle="second_cluster_group">IRF2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/IRF2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.05</branch_length>
+                <clade>
+        <branch_length>0.942</branch_length>
+                <name bgStyle="first_cluster_group">IRF4_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/IRF4_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF4_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.159</branch_length>
+                <clade>
+        <branch_length>0.783</branch_length>
+                <name bgStyle="first_cluster_group">SPI1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SPI1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SPI1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.783</branch_length>
+                <name bgStyle="first_cluster_group">SPIB_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SPIB_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SPIB_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.045</branch_length>
+                <clade>
+        <branch_length>0.954</branch_length>
+                <name bgStyle="second_cluster_group">ANDR_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ANDR_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ANDR_do.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.052</branch_length>
+                <clade>
+        <branch_length>0.902</branch_length>
+                <name bgStyle="first_cluster_group">PRGR_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PRGR_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PRGR_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.056</branch_length>
+                <clade>
+        <branch_length>0.846</branch_length>
+                <name bgStyle="first_cluster_group">GCR_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GCR_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GCR_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.721</branch_length>
+                <clade>
+        <branch_length>0.125</branch_length>
+                <name bgStyle="first_cluster_group">GCR_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GCR_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GCR_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.125</branch_length>
+                <name bgStyle="first_cluster_group">PRGR_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PRGR_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PRGR_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.149</branch_length>
+                <clade>
+        <branch_length>0.85</branch_length>
+                <name bgStyle="second_cluster_group">NKX25_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NKX25_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NKX25_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.85</branch_length>
+                <name bgStyle="second_cluster_group">NKX32_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NKX32_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NKX32_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.036</branch_length>
+                <clade>
+        <branch_length>0.963</branch_length>
+                <name bgStyle="first_cluster_group">NKX28_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NKX28_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NKX28_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.031</branch_length>
+                <clade>
+        <branch_length>0.932</branch_length>
+                <name bgStyle="second_cluster_group">NR6A1_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR6A1_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR6A1_do.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.067</branch_length>
+                <clade>
+        <branch_length>0.301</branch_length>
+                <clade>
+        <branch_length>0.563</branch_length>
+                <name bgStyle="second_cluster_group">NR5A2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR5A2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR5A2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.563</branch_length>
+                <name bgStyle="second_cluster_group">STF1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/STF1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STF1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.123</branch_length>
+                <clade>
+        <branch_length>0.741</branch_length>
+                <name bgStyle="second_cluster_group">ERR3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ERR3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ERR3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.281</branch_length>
+                <clade>
+        <branch_length>0.461</branch_length>
+                <name bgStyle="second_cluster_group">ERR1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ERR1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ERR1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.461</branch_length>
+                <name bgStyle="second_cluster_group">ERR2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ERR2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ERR2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.003</branch_length>
+                <clade>
+        <branch_length>0.021</branch_length>
+                <clade>
+        <branch_length>0.976</branch_length>
+                <name bgStyle="first_cluster_group">VDR_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/VDR_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/VDR_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.337</branch_length>
+                <clade>
+        <branch_length>0.639</branch_length>
+                <name bgStyle="second_cluster_group">NR1I2_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR1I2_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1I2_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.639</branch_length>
+                <name bgStyle="second_cluster_group">NR1I3_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR1I3_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1I3_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.026</branch_length>
+                <clade>
+        <branch_length>0.335</branch_length>
+                <clade>
+        <branch_length>0.635</branch_length>
+                <name bgStyle="first_cluster_group">ESR1_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ESR1_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ESR1_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.635</branch_length>
+                <name bgStyle="first_cluster_group">ESR2_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ESR2_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ESR2_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.251</branch_length>
+                <clade>
+        <branch_length>0.719</branch_length>
+                <name bgStyle="second_cluster_group">RORG_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RORG_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RORG_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.067</branch_length>
+                <clade>
+        <branch_length>0.652</branch_length>
+                <name bgStyle="second_cluster_group">NR1D1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR1D1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1D1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.652</branch_length>
+                <name bgStyle="second_cluster_group">RORA_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RORA_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RORA_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.001</branch_length>
+                <clade>
+        <branch_length>0.996</branch_length>
+                <name bgStyle="first_cluster_group">NR1H4_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR1H4_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1H4_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.011</branch_length>
+                <clade>
+        <branch_length>0.041</branch_length>
+                <clade>
+        <branch_length>0.056</branch_length>
+                <clade>
+        <branch_length>0.092</branch_length>
+                <clade>
+        <branch_length>0.797</branch_length>
+                <name bgStyle="second_cluster_group">PPARG_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PPARG_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PPARG_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.33</branch_length>
+                <clade>
+        <branch_length>0.466</branch_length>
+                <name bgStyle="second_cluster_group">NR4A1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR4A1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR4A1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.466</branch_length>
+                <name bgStyle="second_cluster_group">NR4A2_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR4A2_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR4A2_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.04</branch_length>
+                <clade>
+        <branch_length>0.849</branch_length>
+                <name bgStyle="second_cluster_group">RXRG_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RXRG_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RXRG_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.123</branch_length>
+                <clade>
+        <branch_length>0.726</branch_length>
+                <name bgStyle="second_cluster_group">COT1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/COT1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/COT1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.248</branch_length>
+                <clade>
+        <branch_length>0.478</branch_length>
+                <name bgStyle="second_cluster_group">COT1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/COT1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/COT1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.478</branch_length>
+                <name bgStyle="second_cluster_group">COT2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/COT2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/COT2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.105</branch_length>
+                <clade>
+        <branch_length>0.839</branch_length>
+                <name bgStyle="second_cluster_group">NR2C1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR2C1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR2C1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.327</branch_length>
+                <clade>
+        <branch_length>0.512</branch_length>
+                <name bgStyle="second_cluster_group">NR1I2_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR1I2_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1I2_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.143</branch_length>
+                <clade>
+        <branch_length>0.368</branch_length>
+                <name bgStyle="second_cluster_group">NR1I3_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR1I3_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1I3_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.368</branch_length>
+                <name bgStyle="second_cluster_group">VDR_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/VDR_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/VDR_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.026</branch_length>
+                <clade>
+        <branch_length>0.121</branch_length>
+                <clade>
+        <branch_length>0.838</branch_length>
+                <name bgStyle="first_cluster_group">PPARG_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PPARG_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PPARG_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.041</branch_length>
+                <clade>
+        <branch_length>0.166</branch_length>
+                <clade>
+        <branch_length>0.631</branch_length>
+                <name bgStyle="first_cluster_group">NR2C2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NR2C2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR2C2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.631</branch_length>
+                <name bgStyle="first_cluster_group">PPARA_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PPARA_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PPARA_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.15</branch_length>
+                <clade>
+        <branch_length>0.647</branch_length>
+                <name bgStyle="first_cluster_group">COT2_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/COT2_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/COT2_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.647</branch_length>
+                <name bgStyle="first_cluster_group">RXRA_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RXRA_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RXRA_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.156</branch_length>
+                <clade>
+        <branch_length>0.802</branch_length>
+                <name bgStyle="second_cluster_group">HNF4A_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HNF4A_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HNF4A_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.802</branch_length>
+                <name bgStyle="second_cluster_group">HNF4G_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HNF4G_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HNF4G_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.021</branch_length>
+                <clade>
+        <branch_length>0.107</branch_length>
+                <clade>
+        <branch_length>0.868</branch_length>
+                <name bgStyle="first_cluster_group">RARA_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RARA_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RARA_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.868</branch_length>
+                <name bgStyle="first_cluster_group">RARG_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RARG_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RARG_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.049</branch_length>
+                <clade>
+        <branch_length>0.072</branch_length>
+                <clade>
+        <branch_length>0.855</branch_length>
+                <name bgStyle="second_cluster_group">THB_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/THB_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/THB_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.082</branch_length>
+                <clade>
+        <branch_length>0.106</branch_length>
+                <clade>
+        <branch_length>0.667</branch_length>
+                <name bgStyle="second_cluster_group">RARA_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RARA_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RARA_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.121</branch_length>
+                <clade>
+        <branch_length>0.545</branch_length>
+                <name bgStyle="second_cluster_group">RARG_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RARG_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RARG_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.145</branch_length>
+                <clade>
+        <branch_length>0.4</branch_length>
+                <name bgStyle="second_cluster_group">ESR2_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ESR2_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ESR2_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.4</branch_length>
+                <name bgStyle="second_cluster_group">PPARA_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PPARA_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PPARA_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.171</branch_length>
+                <clade>
+        <branch_length>0.601</branch_length>
+                <name bgStyle="second_cluster_group">RXRB_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RXRB_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RXRB_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.601</branch_length>
+                <name bgStyle="second_cluster_group">THA_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/THA_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/THA_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.114</branch_length>
+                <clade>
+        <branch_length>0.812</branch_length>
+                <name bgStyle="second_cluster_group">THA_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/THA_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/THA_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.812</branch_length>
+                <name bgStyle="second_cluster_group">THB_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/THB_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/THB_do.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.001</branch_length>
+                <clade>
+        <branch_length>0.019</branch_length>
+                <clade>
+        <branch_length>0.98</branch_length>
+                <name bgStyle="first_cluster_group">SRF_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SRF_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SRF_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.98</branch_length>
+                <name bgStyle="second_cluster_group">TYY1_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/TYY1_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TYY1_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.029</branch_length>
+                <clade>
+        <branch_length>0.97</branch_length>
+                <name bgStyle="first_cluster_group">HIC1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/HIC1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HIC1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.033</branch_length>
+                <clade>
+        <branch_length>0.937</branch_length>
+                <name bgStyle="second_cluster_group">RFX3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RFX3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RFX3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.318</branch_length>
+                <clade>
+        <branch_length>0.619</branch_length>
+                <name bgStyle="second_cluster_group">RFX1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RFX1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RFX1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.619</branch_length>
+                <name bgStyle="second_cluster_group">RFX2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RFX2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RFX2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.003</branch_length>
+                <clade>
+        <branch_length>0.041</branch_length>
+                <clade>
+        <branch_length>0.955</branch_length>
+                <name bgStyle="first_cluster_group">NFIA+B+C+X_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFIA+NFIB+NFIC+NFIX_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFIA+NFIB+NFIC+NFIX_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.955</branch_length>
+                <name bgStyle="second_cluster_group">NFIA+B+C+X_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/NFIA+NFIB+NFIC+NFIX_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFIA+NFIB+NFIC+NFIX_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.006</branch_length>
+                <clade>
+        <branch_length>0.99</branch_length>
+                <name bgStyle="first_cluster_group">KAISO_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/KAISO_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/KAISO_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.027</branch_length>
+                <clade>
+        <branch_length>0.226</branch_length>
+                <clade>
+        <branch_length>0.737</branch_length>
+                <name bgStyle="second_cluster_group">E2F6_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/E2F6_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F6_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.195</branch_length>
+                <clade>
+        <branch_length>0.543</branch_length>
+                <name bgStyle="second_cluster_group">E2F1_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/E2F1_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F1_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.543</branch_length>
+                <name bgStyle="second_cluster_group">E2F4_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/E2F4_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F4_do.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.138</branch_length>
+                <clade>
+        <branch_length>0.826</branch_length>
+                <name bgStyle="first_cluster_group">E2F2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/E2F2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.125</branch_length>
+                <clade>
+        <branch_length>0.701</branch_length>
+                <name bgStyle="first_cluster_group">E2F3_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/E2F3_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F3_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.701</branch_length>
+                <name bgStyle="first_cluster_group">E2F5_do</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/E2F5_do_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F5_do.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.124</branch_length>
+                <clade>
+        <branch_length>0.876</branch_length>
+                <name bgStyle="second_cluster_group">RUNX3_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RUNX3_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RUNX3_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.119</branch_length>
+                <clade>
+        <branch_length>0.757</branch_length>
+                <name bgStyle="second_cluster_group">PEBB_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/PEBB_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PEBB_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.139</branch_length>
+                <clade>
+        <branch_length>0.618</branch_length>
+                <name bgStyle="second_cluster_group">RUNX1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RUNX1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RUNX1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.618</branch_length>
+                <name bgStyle="second_cluster_group">RUNX2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/RUNX2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RUNX2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.002</branch_length>
+                <clade>
+        <branch_length>0.208</branch_length>
+                <clade>
+        <branch_length>0.79</branch_length>
+                <name bgStyle="first_cluster_group">SRBP1_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SRBP1_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SRBP1_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.79</branch_length>
+                <name bgStyle="first_cluster_group">SRBP2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SRBP2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SRBP2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.013</branch_length>
+                <clade>
+        <branch_length>0.339</branch_length>
+                <clade>
+        <branch_length>0.646</branch_length>
+                <name bgStyle="second_cluster_group">EGR1_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/EGR1_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/EGR1_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.646</branch_length>
+                <name bgStyle="second_cluster_group">EGR2_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/EGR2_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/EGR2_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.004</branch_length>
+                <clade>
+        <branch_length>0.981</branch_length>
+                <name bgStyle="first_cluster_group">SP2_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SP2_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SP2_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.042</branch_length>
+                <clade>
+        <branch_length>0.303</branch_length>
+                <clade>
+        <branch_length>0.636</branch_length>
+                <name bgStyle="second_cluster_group">SP1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SP1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SP1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.108</branch_length>
+                <clade>
+        <branch_length>0.529</branch_length>
+                <name bgStyle="second_cluster_group">SP1_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SP1_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SP1_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.529</branch_length>
+                <name bgStyle="second_cluster_group">SP3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/SP3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SP3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.203</branch_length>
+                <clade>
+        <branch_length>0.737</branch_length>
+                <name bgStyle="second_cluster_group">KLF1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/KLF1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/KLF1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.737</branch_length>
+                <name bgStyle="second_cluster_group">KLF4_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/KLF4_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/KLF4_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.029</branch_length>
+                <clade>
+        <branch_length>0.969</branch_length>
+                <name bgStyle="first_cluster_group">KLF8_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/KLF8_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/KLF8_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.084</branch_length>
+                <clade>
+        <branch_length>0.278</branch_length>
+                <clade>
+        <branch_length>0.607</branch_length>
+                <name bgStyle="second_cluster_group">GLI3_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GLI3_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GLI3_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.021</branch_length>
+                <clade>
+        <branch_length>0.586</branch_length>
+                <name bgStyle="second_cluster_group">GLI1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GLI1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GLI1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.586</branch_length>
+                <name bgStyle="second_cluster_group">GLI2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GLI2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GLI2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.097</branch_length>
+                <clade>
+        <branch_length>0.788</branch_length>
+                <name bgStyle="second_cluster_group">ZIC3_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ZIC3_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZIC3_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.138</branch_length>
+                <clade>
+        <branch_length>0.65</branch_length>
+                <name bgStyle="second_cluster_group">ZIC1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ZIC1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZIC1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.65</branch_length>
+                <name bgStyle="second_cluster_group">ZIC2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ZIC2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZIC2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>1.0</branch_length>
+                <name bgStyle="first_cluster_group">ZN350_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ZN350_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZN350_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.0</branch_length>
+                <clade>
+        <branch_length>0.007</branch_length>
+                <clade>
+        <branch_length>0.066</branch_length>
+                <clade>
+        <branch_length>0.018</branch_length>
+                <clade>
+        <branch_length>0.909</branch_length>
+                <name bgStyle="second_cluster_group">ELF2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ELF2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ELF2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.02</branch_length>
+                <clade>
+        <branch_length>0.889</branch_length>
+                <name bgStyle="second_cluster_group">EHF_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/EHF_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/EHF_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.009</branch_length>
+                <clade>
+        <branch_length>0.88</branch_length>
+                <name bgStyle="second_cluster_group">ETS2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ETS2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ETS2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.047</branch_length>
+                <clade>
+        <branch_length>0.833</branch_length>
+                <name bgStyle="second_cluster_group">FEV_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FEV_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FEV_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.056</branch_length>
+                <clade>
+        <branch_length>0.777</branch_length>
+                <name bgStyle="second_cluster_group">ETV4_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ETV4_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ETV4_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.024</branch_length>
+                <clade>
+        <branch_length>0.138</branch_length>
+                <clade>
+        <branch_length>0.614</branch_length>
+                <name bgStyle="second_cluster_group">ELK1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ELK1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ELK1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.062</branch_length>
+                <clade>
+        <branch_length>0.552</branch_length>
+                <name bgStyle="second_cluster_group">GABP1+2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GABP1+GABP2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GABP1+GABP2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.098</branch_length>
+                <clade>
+        <branch_length>0.454</branch_length>
+                <name bgStyle="second_cluster_group">ELF1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ELF1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ELF1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.454</branch_length>
+                <name bgStyle="second_cluster_group">GABPA_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/GABPA_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GABPA_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.137</branch_length>
+                <clade>
+        <branch_length>0.615</branch_length>
+                <name bgStyle="second_cluster_group">ERG_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ERG_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ERG_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.615</branch_length>
+                <name bgStyle="second_cluster_group">ETS1_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ETS1_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ETS1_si.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.071</branch_length>
+                <clade>
+        <branch_length>0.855</branch_length>
+                <name bgStyle="second_cluster_group">ELK4_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/ELK4_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ELK4_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.855</branch_length>
+                <name bgStyle="second_cluster_group">FLI1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/FLI1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FLI1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.081</branch_length>
+                <clade>
+        <branch_length>0.912</branch_length>
+                <name bgStyle="first_cluster_group">MBD2_si</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MBD2_si_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MBD2_si.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.912</branch_length>
+                <name bgStyle="first_cluster_group">MECP2_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/MECP2_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MECP2_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.007</branch_length>
+                <clade>
+        <branch_length>0.018</branch_length>
+                <clade>
+        <branch_length>0.974</branch_length>
+                <name bgStyle="second_cluster_group">COE1_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/COE1_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/COE1_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.112</branch_length>
+                <clade>
+        <branch_length>0.862</branch_length>
+                <name bgStyle="first_cluster_group">AP2B_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/AP2B_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/AP2B_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.403</branch_length>
+                <clade>
+        <branch_length>0.459</branch_length>
+                <name bgStyle="first_cluster_group">AP2A_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/AP2A_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/AP2A_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.459</branch_length>
+                <name bgStyle="first_cluster_group">AP2C_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/AP2C_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/AP2C_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+        <clade>
+        <branch_length>0.02</branch_length>
+                <clade>
+        <branch_length>0.972</branch_length>
+                <name bgStyle="second_cluster_group">CTCF_f2</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/CTCF_f2_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CTCF_f2.html</uri>
+        </annotation>
+        <chart>
+          <component>second_cluster_group</component>
+        </chart>
+
+        </clade>
+        <clade>
+        <branch_length>0.972</branch_length>
+                <name bgStyle="first_cluster_group">INSM1_f1</name>
+        <annotation>
+        <desc>&lt;img src="http://autosome.ru/HOCOMOCOS/hocomoco_f/motifs/INSM1_f1_thumb.jpg"/&gt;</desc>
+        <uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/INSM1_f1.html</uri>
+        </annotation>
+        <chart>
+          <component>first_cluster_group</component>
+        </chart>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+        </clade>
+
+    </clade>
+    </clade>
+    </phylogeny>
+    </phyloxml>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<smallbismark>
+ <comment name='WARNING'>This is a draft version of small-BiSMark. Specification is the subject to change!</comment>
+ <motif name='MEIS1' id='MEIS1.MTF'>
+  <comment name='discrete information content by position'>[-1.25812784213303, 0.0100035081409345, -0.0657987147160702, -0.0657987147160702, -0.057394752595381, -0.14122344640557, -0.529099681999572]</comment>
+  <comment name='discrete information content'>-2.10743964442476</comment>
+  <PPM words-count='50.1274900398407' length='7'>
+   <pm-column position='1'>
+    <a>0.229613733905579</a>
+    <c>0.231759656652361</c>
+    <g>0.251072961373391</g>
+    <t>0.28755364806867</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>0.0</a>
+    <c>0.0</c>
+    <g>0.0</g>
+    <t>1.0</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>0.01931330472103</a>
+    <c>0.0</c>
+    <g>0.98068669527897</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>0.98068669527897</a>
+    <c>0.0</c>
+    <g>0.01931330472103</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>0.0</a>
+    <c>0.982832618025751</c>
+    <g>0.0</g>
+    <t>0.0171673819742489</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>0.96137339055794</a>
+    <c>0.01931330472103</c>
+    <g>0.01931330472103</g>
+    <t>0.0</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>0.00965665236051502</a>
+    <c>0.125536480686695</c>
+    <g>0.816523605150214</g>
+    <t>0.0482832618025751</t>
+   </pm-column>
+  </PPM>
+  <PWM words-count='50.1274900398407' length='7'>
+   <pm-column position='1'>
+    <a>-0.0786518314322498</a>
+    <c>-0.0700752840036085</c>
+    <g>0.00397305998077195</g>
+    <t>0.130443623669788</t>
+   </pm-column>
+   <pm-column position='2'>
+    <a>-2.62505724759745</a>
+    <c>-2.62505724759745</c>
+    <g>-2.62505724759745</g>
+    <t>1.33043623465524</t>
+   </pm-column>
+   <pm-column position='3'>
+    <a>-1.93729673630754</a>
+    <c>-2.62505724759745</c>
+    <g>1.31131103838031</g>
+    <t>-2.62505724759745</t>
+   </pm-column>
+   <pm-column position='4'>
+    <a>1.31131103838031</a>
+    <c>-2.62505724759745</c>
+    <g>-1.93729673630754</g>
+    <t>-2.62505724759745</t>
+   </pm-column>
+   <pm-column position='5'>
+    <a>-2.62505724759745</a>
+    <c>1.31345421284603</c>
+    <g>-2.62505724759745</g>
+    <t>-1.99413748275863</t>
+   </pm-column>
+   <pm-column position='6'>
+    <a>1.29181292527694</a>
+    <c>-1.93729673630754</c>
+    <g>-1.93729673630754</g>
+    <t>-2.62505724759745</t>
+   </pm-column>
+   <pm-column position='7'>
+    <a>-2.22318002638607</a>
+    <c>-0.619509643931733</c>
+    <g>1.13203045874448</g>
+    <t>-1.37999843314881</t>
+   </pm-column>
+  </PWM>
+ </motif>
+</smallbismark>
