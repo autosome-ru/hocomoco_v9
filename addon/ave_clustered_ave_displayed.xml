@@ -12,7 +12,7 @@
 <branch_length>0.938</branch_length>
 <name>EVI1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/EVI1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/EVI1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -22,7 +22,7 @@
 <branch_length>0.532</branch_length>
 <name>GATA2_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GATA2_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GATA2_si.html</uri>
 </annotation>
 
 </clade>
@@ -34,7 +34,7 @@
 <branch_length>0.293</branch_length>
 <name>GATA1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GATA1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GATA1_si.html</uri>
 </annotation>
 
 </clade>
@@ -42,7 +42,7 @@
 <branch_length>0.293</branch_length>
 <name>GATA6_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GATA6_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GATA6_f2.html</uri>
 </annotation>
 
 </clade>
@@ -53,7 +53,7 @@
 <branch_length>0.426</branch_length>
 <name>GATA3_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GATA3_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GATA3_si.html</uri>
 </annotation>
 
 </clade>
@@ -61,7 +61,7 @@
 <branch_length>0.426</branch_length>
 <name>GATA4_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GATA4_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GATA4_f1.html</uri>
 </annotation>
 
 </clade>
@@ -83,7 +83,7 @@
 <branch_length>0.635</branch_length>
 <name>GFI1B_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GFI1B_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GFI1B_f1.html</uri>
 </annotation>
 
 </clade>
@@ -91,7 +91,7 @@
 <branch_length>0.635</branch_length>
 <name>GFI1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GFI1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GFI1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -102,7 +102,7 @@
 <branch_length>0.807</branch_length>
 <name>FOS_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOS_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOS_si.html</uri>
 </annotation>
 
 </clade>
@@ -112,7 +112,7 @@
 <branch_length>0.768</branch_length>
 <name>PBX3_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PBX3_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PBX3_f2.html</uri>
 </annotation>
 
 </clade>
@@ -122,7 +122,7 @@
 <branch_length>0.697</branch_length>
 <name>FOXI1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXI1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXI1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -132,7 +132,7 @@
 <branch_length>0.59</branch_length>
 <name>NFYC_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFYC_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFYC_f1.html</uri>
 </annotation>
 
 </clade>
@@ -142,7 +142,7 @@
 <branch_length>0.273</branch_length>
 <name>NFYA_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFYA_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFYA_f1.html</uri>
 </annotation>
 
 </clade>
@@ -150,7 +150,7 @@
 <branch_length>0.273</branch_length>
 <name>NFYB_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFYB_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFYB_f1.html</uri>
 </annotation>
 
 </clade>
@@ -166,7 +166,7 @@
 <branch_length>0.96</branch_length>
 <name>HNF6_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HNF6_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HNF6_f1.html</uri>
 </annotation>
 
 </clade>
@@ -176,7 +176,7 @@
 <branch_length>0.959</branch_length>
 <name>CUX1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CUX1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CUX1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -186,7 +186,7 @@
 <branch_length>0.899</branch_length>
 <name>HXA1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HXA1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HXA1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -196,7 +196,7 @@
 <branch_length>0.852</branch_length>
 <name>PBX2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PBX2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PBX2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -206,7 +206,7 @@
 <branch_length>0.79</branch_length>
 <name>PBX1_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PBX1_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PBX1_do.html</uri>
 </annotation>
 
 </clade>
@@ -216,7 +216,7 @@
 <branch_length>0.339</branch_length>
 <name>HXB7_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HXB7_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HXB7_si.html</uri>
 </annotation>
 
 </clade>
@@ -224,7 +224,7 @@
 <branch_length>0.339</branch_length>
 <name>HXB8_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HXB8_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HXB8_do.html</uri>
 </annotation>
 
 </clade>
@@ -243,7 +243,7 @@
 <branch_length>0.754</branch_length>
 <name>CRX_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CRX_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CRX_si.html</uri>
 </annotation>
 
 </clade>
@@ -251,7 +251,7 @@
 <branch_length>0.754</branch_length>
 <name>OTX2_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/OTX2_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/OTX2_si.html</uri>
 </annotation>
 
 </clade>
@@ -262,7 +262,7 @@
 <branch_length>0.967</branch_length>
 <name>NKX31_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NKX31_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NKX31_si.html</uri>
 </annotation>
 
 </clade>
@@ -272,7 +272,7 @@
 <branch_length>0.938</branch_length>
 <name>ALX1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ALX1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ALX1_si.html</uri>
 </annotation>
 
 </clade>
@@ -282,7 +282,7 @@
 <branch_length>0.886</branch_length>
 <name>LHX3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/LHX3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/LHX3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -292,7 +292,7 @@
 <branch_length>0.759</branch_length>
 <name>PDX1_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PDX1_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PDX1_do.html</uri>
 </annotation>
 
 </clade>
@@ -302,7 +302,7 @@
 <branch_length>0.644</branch_length>
 <name>DLX3_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/DLX3_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/DLX3_do.html</uri>
 </annotation>
 
 </clade>
@@ -312,7 +312,7 @@
 <branch_length>0.361</branch_length>
 <name>NOBOX_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NOBOX_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NOBOX_si.html</uri>
 </annotation>
 
 </clade>
@@ -320,7 +320,7 @@
 <branch_length>0.361</branch_length>
 <name>PRRX2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PRRX2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PRRX2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -340,7 +340,7 @@
 <branch_length>0.986</branch_length>
 <name>ARI5B_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ARI5B_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ARI5B_f1.html</uri>
 </annotation>
 
 </clade>
@@ -350,7 +350,7 @@
 <branch_length>0.959</branch_length>
 <name>AIRE_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/AIRE_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/AIRE_f2.html</uri>
 </annotation>
 
 </clade>
@@ -358,7 +358,7 @@
 <branch_length>0.959</branch_length>
 <name>HXA13_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HXA13_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HXA13_f1.html</uri>
 </annotation>
 
 </clade>
@@ -374,7 +374,7 @@
 <branch_length>0.592</branch_length>
 <name>MEF2D_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MEF2D_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MEF2D_f1.html</uri>
 </annotation>
 
 </clade>
@@ -384,7 +384,7 @@
 <branch_length>0.581</branch_length>
 <name>MEF2A_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MEF2A_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MEF2A_f1.html</uri>
 </annotation>
 
 </clade>
@@ -392,7 +392,7 @@
 <branch_length>0.581</branch_length>
 <name>MEF2C_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MEF2C_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MEF2C_f1.html</uri>
 </annotation>
 
 </clade>
@@ -404,7 +404,7 @@
 <branch_length>0.93</branch_length>
 <name>TBP_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TBP_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/TBP_f1.html</uri>
 </annotation>
 
 </clade>
@@ -414,7 +414,7 @@
 <branch_length>0.832</branch_length>
 <name>HXA10_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HXA10_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HXA10_f1.html</uri>
 </annotation>
 
 </clade>
@@ -424,7 +424,7 @@
 <branch_length>0.735</branch_length>
 <name>CDX1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CDX1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CDX1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -432,7 +432,7 @@
 <branch_length>0.735</branch_length>
 <name>CDX2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CDX2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CDX2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -446,7 +446,7 @@
 <branch_length>0.978</branch_length>
 <name>NANOG_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NANOG_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NANOG_f1.html</uri>
 </annotation>
 
 </clade>
@@ -458,7 +458,7 @@
 <branch_length>0.777</branch_length>
 <name>HNF1A_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HNF1A_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HNF1A_f1.html</uri>
 </annotation>
 
 </clade>
@@ -466,7 +466,7 @@
 <branch_length>0.777</branch_length>
 <name>HNF1B_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HNF1B_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HNF1B_f1.html</uri>
 </annotation>
 
 </clade>
@@ -477,7 +477,7 @@
 <branch_length>0.917</branch_length>
 <name>FOXJ3_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXJ3_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXJ3_f2.html</uri>
 </annotation>
 
 </clade>
@@ -487,7 +487,7 @@
 <branch_length>0.893</branch_length>
 <name>FOXJ3_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXJ3_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXJ3_si.html</uri>
 </annotation>
 
 </clade>
@@ -501,7 +501,7 @@
 <branch_length>0.716</branch_length>
 <name>FOXO1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXO1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXO1_si.html</uri>
 </annotation>
 
 </clade>
@@ -509,7 +509,7 @@
 <branch_length>0.716</branch_length>
 <name>FOXO3_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXO3_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXO3_si.html</uri>
 </annotation>
 
 </clade>
@@ -520,7 +520,7 @@
 <branch_length>0.773</branch_length>
 <name>FOXO4_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXO4_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXO4_f1.html</uri>
 </annotation>
 
 </clade>
@@ -528,7 +528,7 @@
 <branch_length>0.773</branch_length>
 <name>FOXP2_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXP2_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXP2_si.html</uri>
 </annotation>
 
 </clade>
@@ -540,7 +540,7 @@
 <branch_length>0.87</branch_length>
 <name>FOXQ1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXQ1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXQ1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -550,7 +550,7 @@
 <branch_length>0.836</branch_length>
 <name>FOXC1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXC1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXC1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -560,7 +560,7 @@
 <branch_length>0.778</branch_length>
 <name>FOXJ2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXJ2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXJ2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -570,7 +570,7 @@
 <branch_length>0.622</branch_length>
 <name>FOXA3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXA3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXA3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -580,7 +580,7 @@
 <branch_length>0.406</branch_length>
 <name>FOXA1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXA1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXA1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -588,7 +588,7 @@
 <branch_length>0.406</branch_length>
 <name>FOXA2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOXA2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOXA2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -616,7 +616,7 @@
 <branch_length>0.416</branch_length>
 <name>SMAD3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SMAD3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SMAD3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -624,7 +624,7 @@
 <branch_length>0.416</branch_length>
 <name>SMAD4_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SMAD4_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SMAD4_si.html</uri>
 </annotation>
 
 </clade>
@@ -635,7 +635,7 @@
 <branch_length>0.986</branch_length>
 <name>P53_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/P53_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/P53_f2.html</uri>
 </annotation>
 
 </clade>
@@ -645,7 +645,7 @@
 <branch_length>0.976</branch_length>
 <name>NRF1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NRF1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NRF1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -653,7 +653,7 @@
 <branch_length>0.976</branch_length>
 <name>ZFX_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZFX_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ZFX_f1.html</uri>
 </annotation>
 
 </clade>
@@ -670,7 +670,7 @@
 <branch_length>0.993</branch_length>
 <name>OVOL1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/OVOL1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/OVOL1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -682,7 +682,7 @@
 <branch_length>0.978</branch_length>
 <name>PTF1A_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PTF1A_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PTF1A_f1.html</uri>
 </annotation>
 
 </clade>
@@ -694,7 +694,7 @@
 <branch_length>0.921</branch_length>
 <name>HEN1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HEN1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HEN1_si.html</uri>
 </annotation>
 
 </clade>
@@ -702,7 +702,7 @@
 <branch_length>0.921</branch_length>
 <name>TFAP4_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TFAP4_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/TFAP4_si.html</uri>
 </annotation>
 
 </clade>
@@ -715,7 +715,7 @@
 <branch_length>0.849</branch_length>
 <name>TAL1_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TAL1_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/TAL1_f2.html</uri>
 </annotation>
 
 </clade>
@@ -725,7 +725,7 @@
 <branch_length>0.727</branch_length>
 <name>TAL1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TAL1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/TAL1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -733,7 +733,7 @@
 <branch_length>0.727</branch_length>
 <name>TFE2_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TFE2_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/TFE2_f2.html</uri>
 </annotation>
 
 </clade>
@@ -747,7 +747,7 @@
 <branch_length>0.529</branch_length>
 <name>ITF2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ITF2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ITF2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -757,7 +757,7 @@
 <branch_length>0.063</branch_length>
 <name>SNAI1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SNAI1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SNAI1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -765,7 +765,7 @@
 <branch_length>0.063</branch_length>
 <name>SNAI2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SNAI2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SNAI2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -777,7 +777,7 @@
 <branch_length>0.788</branch_length>
 <name>NDF1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NDF1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NDF1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -787,7 +787,7 @@
 <branch_length>0.68</branch_length>
 <name>MYOD1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MYOD1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MYOD1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -797,7 +797,7 @@
 <branch_length>0.454</branch_length>
 <name>HTF4_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HTF4_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HTF4_f1.html</uri>
 </annotation>
 
 </clade>
@@ -805,7 +805,7 @@
 <branch_length>0.454</branch_length>
 <name>MYF6_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MYF6_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MYF6_f1.html</uri>
 </annotation>
 
 </clade>
@@ -822,7 +822,7 @@
 <branch_length>0.979</branch_length>
 <name>MYB_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MYB_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MYB_f1.html</uri>
 </annotation>
 
 </clade>
@@ -832,7 +832,7 @@
 <branch_length>0.765</branch_length>
 <name>MEIS1_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MEIS1_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MEIS1_f2.html</uri>
 </annotation>
 
 </clade>
@@ -840,7 +840,7 @@
 <branch_length>0.765</branch_length>
 <name>MEIS2_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MEIS2_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MEIS2_do.html</uri>
 </annotation>
 
 </clade>
@@ -856,7 +856,7 @@
 <branch_length>0.989</branch_length>
 <name>REST_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/REST_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/REST_f1.html</uri>
 </annotation>
 
 </clade>
@@ -866,7 +866,7 @@
 <branch_length>0.976</branch_length>
 <name>MAF_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MAF_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MAF_f1.html</uri>
 </annotation>
 
 </clade>
@@ -880,7 +880,7 @@
 <branch_length>0.716</branch_length>
 <name>BACH1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/BACH1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/BACH1_si.html</uri>
 </annotation>
 
 </clade>
@@ -888,7 +888,7 @@
 <branch_length>0.716</branch_length>
 <name>NFE2_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFE2_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFE2_f2.html</uri>
 </annotation>
 
 </clade>
@@ -899,7 +899,7 @@
 <branch_length>0.82</branch_length>
 <name>FOSL1_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOSL1_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOSL1_f2.html</uri>
 </annotation>
 
 </clade>
@@ -909,7 +909,7 @@
 <branch_length>0.725</branch_length>
 <name>FOSB_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOSB_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOSB_f1.html</uri>
 </annotation>
 
 </clade>
@@ -921,7 +921,7 @@
 <branch_length>0.527</branch_length>
 <name>BATF_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/BATF_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/BATF_si.html</uri>
 </annotation>
 
 </clade>
@@ -929,7 +929,7 @@
 <branch_length>0.527</branch_length>
 <name>JUNB_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/JUNB_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/JUNB_f1.html</uri>
 </annotation>
 
 </clade>
@@ -940,7 +940,7 @@
 <branch_length>0.559</branch_length>
 <name>SMRC1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SMRC1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SMRC1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -950,7 +950,7 @@
 <branch_length>0.398</branch_length>
 <name>JUN_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/JUN_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/JUN_f1.html</uri>
 </annotation>
 
 </clade>
@@ -960,7 +960,7 @@
 <branch_length>0.363</branch_length>
 <name>FOSL2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FOSL2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FOSL2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -968,7 +968,7 @@
 <branch_length>0.363</branch_length>
 <name>JUND_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/JUND_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/JUND_f1.html</uri>
 </annotation>
 
 </clade>
@@ -985,7 +985,7 @@
 <branch_length>0.948</branch_length>
 <name>NF2L1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NF2L1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NF2L1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -995,7 +995,7 @@
 <branch_length>0.799</branch_length>
 <name>ATF3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ATF3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ATF3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1005,7 +1005,7 @@
 <branch_length>0.71</branch_length>
 <name>CREM_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CREM_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CREM_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1015,7 +1015,7 @@
 <branch_length>0.615</branch_length>
 <name>ATF1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ATF1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ATF1_si.html</uri>
 </annotation>
 
 </clade>
@@ -1025,7 +1025,7 @@
 <branch_length>0.559</branch_length>
 <name>ATF2+4_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ATF2+ATF4_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ATF2+ATF4_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1033,7 +1033,7 @@
 <branch_length>0.559</branch_length>
 <name>CREB1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CREB1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CREB1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1053,7 +1053,7 @@
 <branch_length>0.986</branch_length>
 <name>HINFP_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HINFP_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HINFP_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1065,7 +1065,7 @@
 <branch_length>0.903</branch_length>
 <name>ATF6A_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ATF6A_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ATF6A_si.html</uri>
 </annotation>
 
 </clade>
@@ -1073,7 +1073,7 @@
 <branch_length>0.903</branch_length>
 <name>XBP1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/XBP1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/XBP1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1086,7 +1086,7 @@
 <branch_length>0.861</branch_length>
 <name>HIF1A_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HIF1A_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HIF1A_si.html</uri>
 </annotation>
 
 </clade>
@@ -1096,7 +1096,7 @@
 <branch_length>0.755</branch_length>
 <name>AHR_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/AHR_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/AHR_si.html</uri>
 </annotation>
 
 </clade>
@@ -1104,7 +1104,7 @@
 <branch_length>0.755</branch_length>
 <name>ARNT_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ARNT_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ARNT_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1116,7 +1116,7 @@
 <branch_length>0.897</branch_length>
 <name>BMAL1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/BMAL1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/BMAL1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1126,7 +1126,7 @@
 <branch_length>0.86</branch_length>
 <name>ENOA_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ENOA_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ENOA_si.html</uri>
 </annotation>
 
 </clade>
@@ -1138,7 +1138,7 @@
 <branch_length>0.779</branch_length>
 <name>MITF_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MITF_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MITF_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1148,7 +1148,7 @@
 <branch_length>0.768</branch_length>
 <name>USF2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/USF2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/USF2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1158,7 +1158,7 @@
 <branch_length>0.717</branch_length>
 <name>TFE3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TFE3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/TFE3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1168,7 +1168,7 @@
 <branch_length>0.591</branch_length>
 <name>TFEB_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TFEB_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/TFEB_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1176,7 +1176,7 @@
 <branch_length>0.591</branch_length>
 <name>USF1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/USF1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/USF1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1190,7 +1190,7 @@
 <branch_length>0.808</branch_length>
 <name>BHE40_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/BHE40_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/BHE40_f2.html</uri>
 </annotation>
 
 </clade>
@@ -1200,7 +1200,7 @@
 <branch_length>0.655</branch_length>
 <name>MYCN_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MYCN_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MYCN_si.html</uri>
 </annotation>
 
 </clade>
@@ -1210,7 +1210,7 @@
 <branch_length>0.588</branch_length>
 <name>MAX_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MAX_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MAX_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1218,7 +1218,7 @@
 <branch_length>0.588</branch_length>
 <name>MYC_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MYC_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MYC_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1237,7 +1237,7 @@
 <branch_length>0.99</branch_length>
 <name>MTF1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MTF1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MTF1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1247,7 +1247,7 @@
 <branch_length>0.979</branch_length>
 <name>DDIT3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/DDIT3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/DDIT3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1259,7 +1259,7 @@
 <branch_length>0.768</branch_length>
 <name>HLF_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HLF_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HLF_si.html</uri>
 </annotation>
 
 </clade>
@@ -1269,7 +1269,7 @@
 <branch_length>0.74</branch_length>
 <name>DBP_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/DBP_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/DBP_si.html</uri>
 </annotation>
 
 </clade>
@@ -1277,7 +1277,7 @@
 <branch_length>0.74</branch_length>
 <name>NFIL3_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFIL3_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFIL3_si.html</uri>
 </annotation>
 
 </clade>
@@ -1289,7 +1289,7 @@
 <branch_length>0.843</branch_length>
 <name>CEBPE_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CEBPE_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CEBPE_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1299,7 +1299,7 @@
 <branch_length>0.721</branch_length>
 <name>CEBPG_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CEBPG_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CEBPG_si.html</uri>
 </annotation>
 
 </clade>
@@ -1309,7 +1309,7 @@
 <branch_length>0.527</branch_length>
 <name>CEBPD_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CEBPD_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CEBPD_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1319,7 +1319,7 @@
 <branch_length>0.412</branch_length>
 <name>CEBPA_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CEBPA_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CEBPA_do.html</uri>
 </annotation>
 
 </clade>
@@ -1327,7 +1327,7 @@
 <branch_length>0.412</branch_length>
 <name>CEBPB_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CEBPB_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CEBPB_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1355,7 +1355,7 @@
 <branch_length>0.685</branch_length>
 <name>HSF1_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HSF1_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HSF1_f2.html</uri>
 </annotation>
 
 </clade>
@@ -1363,7 +1363,7 @@
 <branch_length>0.685</branch_length>
 <name>HSF2_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HSF2_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HSF2_si.html</uri>
 </annotation>
 
 </clade>
@@ -1374,7 +1374,7 @@
 <branch_length>0.932</branch_length>
 <name>BCL6_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/BCL6_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/BCL6_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1384,7 +1384,7 @@
 <branch_length>0.922</branch_length>
 <name>STAT6_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STAT6_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/STAT6_do.html</uri>
 </annotation>
 
 </clade>
@@ -1394,7 +1394,7 @@
 <branch_length>0.842</branch_length>
 <name>STAT4_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STAT4_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/STAT4_si.html</uri>
 </annotation>
 
 </clade>
@@ -1404,7 +1404,7 @@
 <branch_length>0.826</branch_length>
 <name>STAT3_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STAT3_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/STAT3_si.html</uri>
 </annotation>
 
 </clade>
@@ -1414,7 +1414,7 @@
 <branch_length>0.781</branch_length>
 <name>STAT1_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STAT1_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/STAT1_f2.html</uri>
 </annotation>
 
 </clade>
@@ -1424,7 +1424,7 @@
 <branch_length>0.525</branch_length>
 <name>STA5A_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STA5A_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/STA5A_do.html</uri>
 </annotation>
 
 </clade>
@@ -1432,7 +1432,7 @@
 <branch_length>0.525</branch_length>
 <name>STA5B_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STA5B_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/STA5B_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1451,7 +1451,7 @@
 <branch_length>0.864</branch_length>
 <name>IKZF1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IKZF1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/IKZF1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1459,7 +1459,7 @@
 <branch_length>0.864</branch_length>
 <name>SUH_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SUH_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SUH_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1470,7 +1470,7 @@
 <branch_length>0.979</branch_length>
 <name>ZN384_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZN384_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ZN384_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1482,7 +1482,7 @@
 <branch_length>0.806</branch_length>
 <name>REL_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/REL_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/REL_do.html</uri>
 </annotation>
 
 </clade>
@@ -1492,7 +1492,7 @@
 <branch_length>0.768</branch_length>
 <name>RELB_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RELB_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RELB_si.html</uri>
 </annotation>
 
 </clade>
@@ -1502,7 +1502,7 @@
 <branch_length>0.571</branch_length>
 <name>NFKB1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFKB1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFKB1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1510,7 +1510,7 @@
 <branch_length>0.571</branch_length>
 <name>TF65_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TF65_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/TF65_f2.html</uri>
 </annotation>
 
 </clade>
@@ -1523,7 +1523,7 @@
 <branch_length>0.863</branch_length>
 <name>NFAC1_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFAC1_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFAC1_do.html</uri>
 </annotation>
 
 </clade>
@@ -1533,7 +1533,7 @@
 <branch_length>0.77</branch_length>
 <name>NFAC1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFAC1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFAC1_si.html</uri>
 </annotation>
 
 </clade>
@@ -1543,7 +1543,7 @@
 <branch_length>0.677</branch_length>
 <name>NFAC3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFAC3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFAC3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1553,7 +1553,7 @@
 <branch_length>0.586</branch_length>
 <name>NFAC2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFAC2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFAC2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1561,7 +1561,7 @@
 <branch_length>0.586</branch_length>
 <name>NFAC4_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFAC4_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFAC4_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1587,7 +1587,7 @@
 <branch_length>0.787</branch_length>
 <name>SOX9_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SOX9_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SOX9_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1597,7 +1597,7 @@
 <branch_length>0.714</branch_length>
 <name>SOX5_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SOX5_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SOX5_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1605,7 +1605,7 @@
 <branch_length>0.714</branch_length>
 <name>SRY_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SRY_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SRY_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1617,7 +1617,7 @@
 <branch_length>0.892</branch_length>
 <name>SOX4_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SOX4_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SOX4_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1627,7 +1627,7 @@
 <branch_length>0.727</branch_length>
 <name>TCF7_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TCF7_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/TCF7_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1637,7 +1637,7 @@
 <branch_length>0.684</branch_length>
 <name>LEF1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/LEF1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/LEF1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1645,7 +1645,7 @@
 <branch_length>0.684</branch_length>
 <name>TF7L2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TF7L2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/TF7L2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1661,7 +1661,7 @@
 <branch_length>0.892</branch_length>
 <name>PO3F1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PO3F1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PO3F1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1671,7 +1671,7 @@
 <branch_length>0.759</branch_length>
 <name>PO5F1_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PO5F1_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PO5F1_do.html</uri>
 </annotation>
 
 </clade>
@@ -1679,7 +1679,7 @@
 <branch_length>0.759</branch_length>
 <name>SOX2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SOX2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SOX2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1691,7 +1691,7 @@
 <branch_length>0.923</branch_length>
 <name>PIT1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PIT1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PIT1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1701,7 +1701,7 @@
 <branch_length>0.551</branch_length>
 <name>PO2F1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PO2F1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PO2F1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1709,7 +1709,7 @@
 <branch_length>0.551</branch_length>
 <name>PO2F2_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PO2F2_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PO2F2_si.html</uri>
 </annotation>
 
 </clade>
@@ -1723,7 +1723,7 @@
 <branch_length>0.986</branch_length>
 <name>NR2E3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR2E3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR2E3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1733,7 +1733,7 @@
 <branch_length>0.981</branch_length>
 <name>ATF5_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ATF5_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ATF5_si.html</uri>
 </annotation>
 
 </clade>
@@ -1745,7 +1745,7 @@
 <branch_length>0.875</branch_length>
 <name>PRDM1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PRDM1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PRDM1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1755,7 +1755,7 @@
 <branch_length>0.822</branch_length>
 <name>IRF9_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF9_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/IRF9_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1765,7 +1765,7 @@
 <branch_length>0.806</branch_length>
 <name>IRF7_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF7_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/IRF7_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1775,7 +1775,7 @@
 <branch_length>0.735</branch_length>
 <name>STAT2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STAT2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/STAT2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1785,7 +1785,7 @@
 <branch_length>0.678</branch_length>
 <name>IRF3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/IRF3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1795,7 +1795,7 @@
 <branch_length>0.469</branch_length>
 <name>IRF1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/IRF1_si.html</uri>
 </annotation>
 
 </clade>
@@ -1803,7 +1803,7 @@
 <branch_length>0.469</branch_length>
 <name>IRF2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/IRF2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1819,7 +1819,7 @@
 <branch_length>0.888</branch_length>
 <name>IRF4_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/IRF4_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/IRF4_si.html</uri>
 </annotation>
 
 </clade>
@@ -1829,7 +1829,7 @@
 <branch_length>0.783</branch_length>
 <name>SPI1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SPI1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SPI1_si.html</uri>
 </annotation>
 
 </clade>
@@ -1837,7 +1837,7 @@
 <branch_length>0.783</branch_length>
 <name>SPIB_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SPIB_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SPIB_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1855,7 +1855,7 @@
 <branch_length>0.914</branch_length>
 <name>ANDR_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ANDR_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ANDR_do.html</uri>
 </annotation>
 
 </clade>
@@ -1865,7 +1865,7 @@
 <branch_length>0.881</branch_length>
 <name>PRGR_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PRGR_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PRGR_do.html</uri>
 </annotation>
 
 </clade>
@@ -1875,7 +1875,7 @@
 <branch_length>0.845</branch_length>
 <name>GCR_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GCR_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GCR_do.html</uri>
 </annotation>
 
 </clade>
@@ -1885,7 +1885,7 @@
 <branch_length>0.125</branch_length>
 <name>GCR_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GCR_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GCR_si.html</uri>
 </annotation>
 
 </clade>
@@ -1893,7 +1893,7 @@
 <branch_length>0.125</branch_length>
 <name>PRGR_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PRGR_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PRGR_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1911,7 +1911,7 @@
 <branch_length>0.85</branch_length>
 <name>NKX25_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NKX25_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NKX25_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1919,7 +1919,7 @@
 <branch_length>0.85</branch_length>
 <name>NKX32_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NKX32_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NKX32_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1930,7 +1930,7 @@
 <branch_length>0.943</branch_length>
 <name>NKX28_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NKX28_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NKX28_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1940,7 +1940,7 @@
 <branch_length>0.912</branch_length>
 <name>NR6A1_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR6A1_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR6A1_do.html</uri>
 </annotation>
 
 </clade>
@@ -1952,7 +1952,7 @@
 <branch_length>0.563</branch_length>
 <name>NR5A2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR5A2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR5A2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1960,7 +1960,7 @@
 <branch_length>0.563</branch_length>
 <name>STF1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/STF1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/STF1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1971,7 +1971,7 @@
 <branch_length>0.733</branch_length>
 <name>ERR3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ERR3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ERR3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1981,7 +1981,7 @@
 <branch_length>0.461</branch_length>
 <name>ERR1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ERR1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ERR1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -1989,7 +1989,7 @@
 <branch_length>0.461</branch_length>
 <name>ERR2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ERR2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ERR2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2007,7 +2007,7 @@
 <branch_length>0.962</branch_length>
 <name>VDR_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/VDR_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/VDR_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2017,7 +2017,7 @@
 <branch_length>0.639</branch_length>
 <name>NR1I2_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1I2_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR1I2_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2025,7 +2025,7 @@
 <branch_length>0.639</branch_length>
 <name>NR1I3_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1I3_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR1I3_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2041,7 +2041,7 @@
 <branch_length>0.635</branch_length>
 <name>ESR1_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ESR1_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ESR1_do.html</uri>
 </annotation>
 
 </clade>
@@ -2049,7 +2049,7 @@
 <branch_length>0.635</branch_length>
 <name>ESR2_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ESR2_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ESR2_do.html</uri>
 </annotation>
 
 </clade>
@@ -2060,7 +2060,7 @@
 <branch_length>0.703</branch_length>
 <name>RORG_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RORG_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RORG_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2070,7 +2070,7 @@
 <branch_length>0.652</branch_length>
 <name>NR1D1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1D1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR1D1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2078,7 +2078,7 @@
 <branch_length>0.652</branch_length>
 <name>RORA_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RORA_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RORA_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2091,7 +2091,7 @@
 <branch_length>0.962</branch_length>
 <name>NR1H4_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1H4_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR1H4_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2109,7 +2109,7 @@
 <branch_length>0.763</branch_length>
 <name>PPARG_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PPARG_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PPARG_si.html</uri>
 </annotation>
 
 </clade>
@@ -2119,7 +2119,7 @@
 <branch_length>0.466</branch_length>
 <name>NR4A1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR4A1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR4A1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2127,7 +2127,7 @@
 <branch_length>0.466</branch_length>
 <name>NR4A2_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR4A2_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR4A2_si.html</uri>
 </annotation>
 
 </clade>
@@ -2139,7 +2139,7 @@
 <branch_length>0.77</branch_length>
 <name>RXRG_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RXRG_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RXRG_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2149,7 +2149,7 @@
 <branch_length>0.701</branch_length>
 <name>COT1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/COT1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/COT1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2159,7 +2159,7 @@
 <branch_length>0.478</branch_length>
 <name>COT1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/COT1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/COT1_si.html</uri>
 </annotation>
 
 </clade>
@@ -2167,7 +2167,7 @@
 <branch_length>0.478</branch_length>
 <name>COT2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/COT2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/COT2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2181,7 +2181,7 @@
 <branch_length>0.834</branch_length>
 <name>NR2C1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR2C1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR2C1_si.html</uri>
 </annotation>
 
 </clade>
@@ -2191,7 +2191,7 @@
 <branch_length>0.481</branch_length>
 <name>NR1I2_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1I2_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR1I2_si.html</uri>
 </annotation>
 
 </clade>
@@ -2201,7 +2201,7 @@
 <branch_length>0.368</branch_length>
 <name>NR1I3_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR1I3_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR1I3_si.html</uri>
 </annotation>
 
 </clade>
@@ -2209,7 +2209,7 @@
 <branch_length>0.368</branch_length>
 <name>VDR_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/VDR_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/VDR_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2225,7 +2225,7 @@
 <branch_length>0.8</branch_length>
 <name>PPARG_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PPARG_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PPARG_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2237,7 +2237,7 @@
 <branch_length>0.631</branch_length>
 <name>NR2C2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NR2C2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NR2C2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2245,7 +2245,7 @@
 <branch_length>0.631</branch_length>
 <name>PPARA_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PPARA_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PPARA_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2256,7 +2256,7 @@
 <branch_length>0.647</branch_length>
 <name>COT2_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/COT2_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/COT2_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2264,7 +2264,7 @@
 <branch_length>0.647</branch_length>
 <name>RXRA_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RXRA_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RXRA_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2277,7 +2277,7 @@
 <branch_length>0.802</branch_length>
 <name>HNF4A_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HNF4A_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HNF4A_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2285,7 +2285,7 @@
 <branch_length>0.802</branch_length>
 <name>HNF4G_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HNF4G_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HNF4G_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2300,7 +2300,7 @@
 <branch_length>0.868</branch_length>
 <name>RARA_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RARA_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RARA_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2308,7 +2308,7 @@
 <branch_length>0.868</branch_length>
 <name>RARG_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RARG_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RARG_do.html</uri>
 </annotation>
 
 </clade>
@@ -2321,7 +2321,7 @@
 <branch_length>0.777</branch_length>
 <name>THB_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/THB_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/THB_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2333,7 +2333,7 @@
 <branch_length>0.583</branch_length>
 <name>RARA_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RARA_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RARA_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2343,7 +2343,7 @@
 <branch_length>0.473</branch_length>
 <name>RARG_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RARG_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RARG_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2353,7 +2353,7 @@
 <branch_length>0.4</branch_length>
 <name>ESR2_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ESR2_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ESR2_si.html</uri>
 </annotation>
 
 </clade>
@@ -2361,7 +2361,7 @@
 <branch_length>0.4</branch_length>
 <name>PPARA_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PPARA_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PPARA_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2374,7 +2374,7 @@
 <branch_length>0.601</branch_length>
 <name>RXRB_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RXRB_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RXRB_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2382,7 +2382,7 @@
 <branch_length>0.601</branch_length>
 <name>THA_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/THA_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/THA_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2395,7 +2395,7 @@
 <branch_length>0.812</branch_length>
 <name>THA_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/THA_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/THA_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2403,7 +2403,7 @@
 <branch_length>0.812</branch_length>
 <name>THB_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/THB_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/THB_do.html</uri>
 </annotation>
 
 </clade>
@@ -2428,7 +2428,7 @@
 <branch_length>0.98</branch_length>
 <name>SRF_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SRF_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SRF_do.html</uri>
 </annotation>
 
 </clade>
@@ -2436,7 +2436,7 @@
 <branch_length>0.98</branch_length>
 <name>TYY1_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/TYY1_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/TYY1_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2449,7 +2449,7 @@
 <branch_length>0.958</branch_length>
 <name>HIC1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/HIC1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/HIC1_si.html</uri>
 </annotation>
 
 </clade>
@@ -2459,7 +2459,7 @@
 <branch_length>0.919</branch_length>
 <name>RFX3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RFX3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RFX3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2469,7 +2469,7 @@
 <branch_length>0.619</branch_length>
 <name>RFX1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RFX1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RFX1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2477,7 +2477,7 @@
 <branch_length>0.619</branch_length>
 <name>RFX2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RFX2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RFX2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2492,7 +2492,7 @@
 <branch_length>0.955</branch_length>
 <name>NFIA+B+C+X_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFIA+NFIB+NFIC+NFIX_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFIA+NFIB+NFIC+NFIX_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2500,7 +2500,7 @@
 <branch_length>0.955</branch_length>
 <name>NFIA+B+C+X_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/NFIA+NFIB+NFIC+NFIX_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/NFIA+NFIB+NFIC+NFIX_si.html</uri>
 </annotation>
 
 </clade>
@@ -2511,7 +2511,7 @@
 <branch_length>0.966</branch_length>
 <name>KAISO_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/KAISO_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/KAISO_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2523,7 +2523,7 @@
 <branch_length>0.731</branch_length>
 <name>E2F6_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F6_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/E2F6_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2533,7 +2533,7 @@
 <branch_length>0.543</branch_length>
 <name>E2F1_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F1_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/E2F1_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2541,7 +2541,7 @@
 <branch_length>0.543</branch_length>
 <name>E2F4_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F4_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/E2F4_do.html</uri>
 </annotation>
 
 </clade>
@@ -2553,7 +2553,7 @@
 <branch_length>0.81</branch_length>
 <name>E2F2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/E2F2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2563,7 +2563,7 @@
 <branch_length>0.701</branch_length>
 <name>E2F3_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F3_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/E2F3_si.html</uri>
 </annotation>
 
 </clade>
@@ -2571,7 +2571,7 @@
 <branch_length>0.701</branch_length>
 <name>E2F5_do</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/E2F5_do.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/E2F5_do.html</uri>
 </annotation>
 
 </clade>
@@ -2592,7 +2592,7 @@
 <branch_length>0.862</branch_length>
 <name>RUNX3_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RUNX3_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RUNX3_si.html</uri>
 </annotation>
 
 </clade>
@@ -2602,7 +2602,7 @@
 <branch_length>0.721</branch_length>
 <name>PEBB_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/PEBB_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/PEBB_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2612,7 +2612,7 @@
 <branch_length>0.618</branch_length>
 <name>RUNX1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RUNX1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RUNX1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2620,7 +2620,7 @@
 <branch_length>0.618</branch_length>
 <name>RUNX2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/RUNX2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/RUNX2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2635,7 +2635,7 @@
 <branch_length>0.79</branch_length>
 <name>SRBP1_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SRBP1_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SRBP1_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2643,7 +2643,7 @@
 <branch_length>0.79</branch_length>
 <name>SRBP2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SRBP2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SRBP2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2658,7 +2658,7 @@
 <branch_length>0.646</branch_length>
 <name>EGR1_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/EGR1_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/EGR1_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2666,7 +2666,7 @@
 <branch_length>0.646</branch_length>
 <name>EGR2_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/EGR2_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/EGR2_si.html</uri>
 </annotation>
 
 </clade>
@@ -2677,7 +2677,7 @@
 <branch_length>0.908</branch_length>
 <name>SP2_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SP2_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SP2_si.html</uri>
 </annotation>
 
 </clade>
@@ -2689,7 +2689,7 @@
 <branch_length>0.614</branch_length>
 <name>SP1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SP1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SP1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2699,7 +2699,7 @@
 <branch_length>0.529</branch_length>
 <name>SP1_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SP1_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SP1_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2707,7 +2707,7 @@
 <branch_length>0.529</branch_length>
 <name>SP3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/SP3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/SP3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2719,7 +2719,7 @@
 <branch_length>0.737</branch_length>
 <name>KLF1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/KLF1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/KLF1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2727,7 +2727,7 @@
 <branch_length>0.737</branch_length>
 <name>KLF4_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/KLF4_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/KLF4_f2.html</uri>
 </annotation>
 
 </clade>
@@ -2741,7 +2741,7 @@
 <branch_length>0.961</branch_length>
 <name>KLF8_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/KLF8_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/KLF8_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2753,7 +2753,7 @@
 <branch_length>0.6</branch_length>
 <name>GLI3_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GLI3_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GLI3_si.html</uri>
 </annotation>
 
 </clade>
@@ -2763,7 +2763,7 @@
 <branch_length>0.586</branch_length>
 <name>GLI1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GLI1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GLI1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2771,7 +2771,7 @@
 <branch_length>0.586</branch_length>
 <name>GLI2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GLI2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GLI2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2783,7 +2783,7 @@
 <branch_length>0.753</branch_length>
 <name>ZIC3_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZIC3_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ZIC3_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2793,7 +2793,7 @@
 <branch_length>0.65</branch_length>
 <name>ZIC1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZIC1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ZIC1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2801,7 +2801,7 @@
 <branch_length>0.65</branch_length>
 <name>ZIC2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZIC2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ZIC2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2818,7 +2818,7 @@
 <branch_length>0.995</branch_length>
 <name>ZN350_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ZN350_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ZN350_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2834,7 +2834,7 @@
 <branch_length>0.852</branch_length>
 <name>ELF2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ELF2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ELF2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2844,7 +2844,7 @@
 <branch_length>0.837</branch_length>
 <name>EHF_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/EHF_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/EHF_si.html</uri>
 </annotation>
 
 </clade>
@@ -2854,7 +2854,7 @@
 <branch_length>0.823</branch_length>
 <name>ETS2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ETS2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ETS2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2864,7 +2864,7 @@
 <branch_length>0.764</branch_length>
 <name>FEV_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FEV_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FEV_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2874,7 +2874,7 @@
 <branch_length>0.695</branch_length>
 <name>ETV4_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ETV4_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ETV4_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2886,7 +2886,7 @@
 <branch_length>0.584</branch_length>
 <name>ELK1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ELK1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ELK1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2896,7 +2896,7 @@
 <branch_length>0.522</branch_length>
 <name>GABP1+2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GABP1+GABP2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GABP1+GABP2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2906,7 +2906,7 @@
 <branch_length>0.454</branch_length>
 <name>ELF1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ELF1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ELF1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2914,7 +2914,7 @@
 <branch_length>0.454</branch_length>
 <name>GABPA_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/GABPA_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/GABPA_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2927,7 +2927,7 @@
 <branch_length>0.615</branch_length>
 <name>ERG_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ERG_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ERG_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2935,7 +2935,7 @@
 <branch_length>0.615</branch_length>
 <name>ETS1_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ETS1_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ETS1_si.html</uri>
 </annotation>
 
 </clade>
@@ -2952,7 +2952,7 @@
 <branch_length>0.855</branch_length>
 <name>ELK4_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/ELK4_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/ELK4_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2960,7 +2960,7 @@
 <branch_length>0.855</branch_length>
 <name>FLI1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/FLI1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/FLI1_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2972,7 +2972,7 @@
 <branch_length>0.912</branch_length>
 <name>MBD2_si</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MBD2_si.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MBD2_si.html</uri>
 </annotation>
 
 </clade>
@@ -2980,7 +2980,7 @@
 <branch_length>0.912</branch_length>
 <name>MECP2_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/MECP2_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/MECP2_f1.html</uri>
 </annotation>
 
 </clade>
@@ -2994,7 +2994,7 @@
 <branch_length>0.945</branch_length>
 <name>COE1_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/COE1_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/COE1_f2.html</uri>
 </annotation>
 
 </clade>
@@ -3004,7 +3004,7 @@
 <branch_length>0.852</branch_length>
 <name>AP2B_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/AP2B_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/AP2B_f1.html</uri>
 </annotation>
 
 </clade>
@@ -3014,7 +3014,7 @@
 <branch_length>0.459</branch_length>
 <name>AP2A_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/AP2A_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/AP2A_f2.html</uri>
 </annotation>
 
 </clade>
@@ -3022,7 +3022,7 @@
 <branch_length>0.459</branch_length>
 <name>AP2C_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/AP2C_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/AP2C_f1.html</uri>
 </annotation>
 
 </clade>
@@ -3035,7 +3035,7 @@
 <branch_length>0.972</branch_length>
 <name>CTCF_f2</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/CTCF_f2.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/CTCF_f2.html</uri>
 </annotation>
 
 </clade>
@@ -3043,7 +3043,7 @@
 <branch_length>0.972</branch_length>
 <name>INSM1_f1</name>
 <annotation>
-<uri>http://autosome.ru/HOCOMOCOS/hocomoco_ad/motif_details/INSM1_f1.html</uri>
+<uri>https://autosome.org/HOCOMOCO/hocomoco_ad/motif_details/INSM1_f1.html</uri>
 </annotation>
 
 </clade>
